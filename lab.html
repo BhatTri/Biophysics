@@ -378,8 +378,9 @@
           var doc = document.getElementById('photo').clientHeight;
           //alert(doc);
           
-    if(browserName == 'safari'){
+    if(browserName == 'safari' ){
         document.getElementById('intro').style.minHeight = (parseInt(doc)-10)+'px';
+        document.getElementById('intro').style.maxHeight = doc+'px';
     } 
     
     </script>
