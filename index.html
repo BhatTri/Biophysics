@@ -36,20 +36,21 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
   <style>
-    .guv{
-      border-radius:50%;
-      height:150px;
-      width:150px;
+    .guv {
+      border-radius: 50%;
+      height: 150px;
+      width: 150px;
       animation-name: rotate;
       animation-duration: 40s;
       animation-iteration-count: infinite;
     }
-    .guv .inside{
+
+    .guv .inside {
       background-color: rgba(0, 128, 0, 0.1);
-      opacity:1;
-      font-size:30px;
-      color:white;
-      border-radius:50%;
+      opacity: 1;
+      font-size: 30px;
+      color: white;
+      border-radius: 50%;
       display: flex;
       justify-content: center;
       align-content: center;
@@ -58,33 +59,50 @@
       animation-duration: 40s;
       animation-iteration-count: infinite;
       color: white !important;
-      height:145px;
-      position:relative;
+      height: 145px;
+      position: relative;
     }
-    @keyframes rotate{
-      0%{
+
+    @keyframes rotate {
+      0% {
         transform: rotateZ(0deg);
-        border:2px dashed green;
+        border: 2px dashed green;
       }
-      50%{
+
+      50% {
         transform: rotateZ(360deg);
-        border:2.5px dashed green;
+        border: 2.5px dashed green;
       }
-      100%{
+
+      100% {
         transform: rotateZ(720deg);
-        border:2px dashed green;
+        border: 2px dashed green;
       }
     }
-    @keyframes norotate{
-      0%{
+
+    @keyframes norotate {
+      0% {
         transform: rotateZ(0deg);
       }
-      50%{
+
+      50% {
         transform: rotateZ(-360deg);
       }
-      100%{
+
+      100% {
         transform: rotateZ(-720deg);
       }
+    }
+
+    .button-tp {
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 12px;
+      font-size: 12px;
+      padding-right: 12px;
+      border-radius: 20px;
+      background: rgba(29, 0, 125, 0.733);
+      color: white;
     }
   </style>
 </head>
@@ -99,7 +117,7 @@
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
         <!--i class="bi bi-atom"></i-->
-        <h1>BioPhysics Lab</h1>
+        <img src="./logo.png" class="img-fluid" style="max-width: 100%;">
       </a>
 
 
@@ -111,13 +129,14 @@
           <li><a href="opportunities.html">Opportunities</a></li>
           <li><a href="teaching.html">Overview</a></li>
           <li><a href="publication.html">Publication</a></li>
-          <li><a href="funding.html">Funding</a></li>
+          <li><a href="alumni.html">Alumni</a></li>
         </ul>
       </nav><!-- .navbar -->
 
       <div class="header-social-links">
         <a href="https://twitter.com/concepts_soft" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="https://www.facebook.com/ConceptsSoftmatter" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=100094255573129" class="facebook"><i
+            class="bi bi-facebook"></i></a>
         <a href="https://www.researchgate.net/profile/Tripta-Bhatia" class="instagram"><i
             class="bi bi-paperclip"></i></a>
         <a href="https://www.youtube.com/channel/UCIKwEyOuHfVi4c24aSheNYg" class="linkedin"><i
@@ -166,15 +185,21 @@
               </h1>
               <h5 class="text-quad">
                 <center>
-                  We are at 1H,AB1, IISER Mohali.
+                  at 1H,AB1, IISER Mohali.
                 </center>
               </h5>
               <br>
               <center>
-                <a href="https://twitter.com/concepts_soft?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @concepts_soft</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                <a href="https://twitter.com/concepts_soft?ref_src=twsrc%5Etfw" class="twitter-follow-button"
+                  data-show-count="false">Follow @concepts_soft</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                <br><span style="padding-top:5px"></span>
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/profile.php?id=100094255573129"
+                  class="button-tp">
+                  <i class="bi bi-facebook"></i> Follow on Facebook
+                </a>
               </center>
             </div>
-            <p style="padding-top:20px"></p>
             <!--center>
               <div class="guv"></div>
             </center-->
@@ -184,154 +209,115 @@
     </div>
   </section>
   </main><!-- End #main -->
- 
-  <section style="background:teal;padding-top:40px;padding-bottom:40px;" id="photopublications">
+
+  <section style="padding-bottom:40px;" id="photopublications">
     <div class="row" style="max-width:100%">
-      <div class="col-sm-4">
-        <div class="container-tp"> 
+      <div class="col-sm-5">
+        <div class="container-tp">
           <center>
-            <img src="./images/paper/3.png" class="img-fluid" style="height:450px;border-radius:20px">
+            <img src="./images/paper/ChemSystemsChem - 2022 - Nowbagh - Generation of Bilayer Asymmetry and Membrane Curvature by the Sugar‐Cleaving Enzyme_page-0001.jpg" class="img-fluid" style="border-radius:20px;">
+          </center>
+        </div>
+      </div>
+      <div class="col-sm-3">
+        <div class="container-tp">
+          <center>
+            <img src="./images/generation/img60.jpg" style="border-radius:10px;max-width:100%">
+            <br>
+            <p style="color:white;font-size:11px;padding-top:5px;padding-bottom:10px;">
+              <b>Figure1.</b>Membrane deformation of a GUV in about a minute. (a,b)Shape changes of a GUV from
+              quasi-spherical to
+              non-spherical shape in the presence of the enzyme invertase in the bulk solutionas observed by
+              phase-contrast microscopy.A small region of the GUV membraneis highlighted by the red box in Figure1b. (c)
+              Expansion and compression of outer and inner bilayer leaflet shown schematically for a small outward
+              bulged region of
+              the GUV membrane corresponding to the red box in (b). The black balls represent the head group, and the
+              two continuous lines represent the tails. Scale bars:10μm.
+            </p>
+            <img src="./images/generation/img43.jpg" style="border-radius:10px;max-width:100%">
+            <p style="color:white;font-size:11px;padding-top:5px;padding-bottom:10px;">
+              <b>Figure 4.</b>Three-sphere morphologies of GUVs generated by 50nM invertase after 4 hours: (a,d) The small sphere is
+              located between the two large spheres. (b,e) The small sphere is at the end of a
+              necklace with two large spheres. (c,f) The three spheres have equal sizes. The scale bar is 10μm.The time of imaging is 4
+              hours after the enzyme incubation. (d-f) Schematics for the images. Red colour is used for the GUV membrane, blue for
+              the sucrose solution in the interior of the GUV. The sugar concentration is close to 600mM with sucrose in the
+              interior and an equimolar mixture of fructose and glucose in the exterior solution. The scale bar in (c) is 10μm
+              and applies to panels (a-c).
+            </p>
           </center>
         </div>
       </div>
       <div class="col-sm-4">
-        <div class="container-tp"> 
+        <div class="container-tp">
           <center>
-            <img src="./images/paper/5.png" class="img-fluid" style="height:450px;border-radius:20px">
-          </center>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="container-tp"> 
-          <center>
-            <a class="twitter-timeline" href="https://twitter.com/concepts_soft?ref_src=twsrc%5Etfw" data-tweet-limit=1>Tweets by concepts_soft</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-      
+            <a style="max-height:300px" class="twitter-timeline"
+              href="https://twitter.com/concepts_soft?ref_src=twsrc%5Etfw" data-tweet-limit=1>Tweets by
+              concepts_soft</a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <br>
+            <iframe
+              src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2F100094255573129&width=100"
+              scrolling="yes"
+              style="border:none; overflow:scroll; width:100%; height:200px; background: white; float:left;border-radius:20px;"
+              allowtransparency="true" frameborder="0"></iframe>
           </center>
         </div>
       </div>
     </div>
+    <p style="padding:0;padding-top:20px"></p>
+    <div class="row" style="max-width: 100%;">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10" style="border-bottom:2px solid white"></div>
+      <div class="col-sm-1"></div>
+    </div>
   </section>
-  <main id="main">
-    <!-- ======= Gallery Section ======= -->
-    <section id="gallery" class="gallery">
-      <div class="container-fluid">
-        <h3>Gallery</h3>
-        <br>
-        <div class="row gy-4 justify-content-center">
-          <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="gallery-item h-100">
-              <img src="./images/lab/1.png" class="img-fluid" alt="">
-              <div class="gallery-links d-flex align-items-center justify-content-center">
-                <a href="./images/lab/1.png"
-                  title="Congratulations to Hemraj, Sourav, Suhasi, Harshit (left to right) for their successful M.Sc. thesis presentation. "
-                  class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-
-              </div>
-            </div>
-          </div><!-- End Gallery Item -->
-          <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="gallery-item h-100">
-              <img src="./images/lab/2.png" class="img-fluid" alt="">
-              <div class="gallery-links d-flex align-items-center justify-content-center">
-                <a href="./images/lab/2.png"
-                  title="The 45th Meeting of the IndianBiophysicsSociety at NCBS Bangalore, India"
-                  class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                <a href="gallery-single.html" class="details-link"><i class="bi bi-link-45deg"></i></a>
-              </div>
-            </div>
-          </div><!-- End Gallery Item --
-          -->
-          <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="gallery-item h-100">
-              <img src="./images/lab/3.png" class="img-fluid" alt="">
-              <div class="gallery-links d-flex align-items-center justify-content-center">
-                <a href="./images/lab/3.png" title="Department of Biophysics, Panjab University"
-                  class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                <a href="gallery-single.html" class="details-link"><i class="bi bi-link-45deg"></i></a>
-              </div>
-            </div>
-          </div><!-- End Gallery Item -->
-          <div class="col-xl-3 col-lg-4 col-md-6">
-            <div class="gallery-item h-100">
-              <img src="./images/lab/4.png" class="img-fluid" alt="">
-              <div class="gallery-links d-flex align-items-center justify-content-center">
-                <a href="./images/lab/4.png" title="Lunch date
-(LtoR) Tripta, Mayur, Abhimanyu, Hemraj, Shubhashree, Sanat, Prof.  Ipsen, Jai, Sayar, Akshi, Veerpal"
-                  class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                <a href="gallery-single.html" class="details-link"><i class="bi bi-link-45deg"></i></a>
-              </div>
-            </div>
-          </div><!-- End Gallery Item -->
-          <!-- End Gallery Item -->
-          <br>
-          <center>
-            <a class="btn btn-secondary" href="./gallery.html">View all Images</a>
-          </center>
-
+  <section style="padding-left:10px;padding-right:10px;padding-top:15px">
+    <div class="row" style="max-width:100%">
+      <div class="col-sm-6" style="padding:2%;">
+        <div class="container-tp first-color" style="height:170px">
+          <h4><u>Funding Acknowledgement</u></h4>
+          <ul>
+            <li>
+              <a href="https://www.iisermohali.ac.in/" style="color:inherit;text-decoration:none;">
+                IISER Mohali startup funding.
+              </a>
+            </li>
+            <li>
+              <a href="https://rcb.res.in/RRF/" style="color:inherit;text-decoration:none;">
+                Ramalingaswami Re-entry Fellowship (RLS) of the Department of Biotechnology
+              </a>
+            </li>
+          </ul>
         </div>
-
       </div>
-    </section><!-- End Gallery Section -->
-    <br>
-    <section style="padding-left:10px;padding-right:10px" id="publication">
-      <h3>Publications</h3>
-      <br><br>
-      <ol type="none">
-        <li style="color:white;"><a style="text-decoration:none;" href="https://doi.org/10.48550/arXiv.2303.14631">
-            <h5>
-              7.
-              <i>
-                <u>
-                  Stability of multi-lamellar lipid tubules in excess water.
-                </u>
-              </i>
-            </h5>
-            <p style="padding-left:25px">T. Bhatia</p>
-          </a>
-        </li>
-        <li style="color:white;"><a style="text-decoration:none;" href="#">
-            <h5>
-              6.
-              <i>
-                <u>
-                  Transient interactions drive the lateral clustering of cadherin-23 on membrane.
-                </u>
-              </i>
-            </h5>
-            <p style="padding-left:25px">
-              C. Srinivas, G. Singaraju, V. Kaur, S. Das, S. Ghosh, A. Sagar, A. Kumar, T. Bhatia, S. Rakshit
-            </p>
-          </a>
-        </li>
-        <li style="color:white;"><a style="text-decoration:none;"
-            href="https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/syst.202200027">
-            <h5>
-              5.
-              <i>
-                <u>
-                  Generation of Bilayer Asymmetry and Membrane Curvature by the Sugar-Cleaving Enzyme Invertase
-                </u>
-              </i>
-            </h5>
-            <p style="padding-left:25px">
-              A. Nowbagh, A. Deshwal, M. Kadu, A. Chaudhuri, S. Maiti, R. Lipowsky, T. Bhatia
-            </p>
-          </a>
-        </li>
-      </ol>
-      <br>
-      <div style="padding-left:25px">
-        <a class="btn btn-secondary" href="./publication.html">View all publications</a>
-        &nbsp;&nbsp;
-        <a href="https://scholar.google.dk/citations?user=hclWBjoAAAAJ&hl=en" class="btn btn-secondary">Google
-          Scholar</a>
-        &nbsp;&nbsp;
-        <a href="https://www.researchgate.net/profile/Tripta-Bhatia" class="btn btn-secondary">Research Gate</a>
-
+      <div class="col-sm-6" style="padding:2%;">
+        <div class="container-tp second-color">
+          <h4><u>Membership</u></h4>
+          <ul>
+            <li>
+              <a href="https://smrsi.org/" style="color:inherit;text-decoration:none">
+                Soft Material Research Society (ICSM 2022)
+              </a>
+            </li>
+            <li>
+              <a href="https://www.tifr.res.in/~ibs/" style="color:inherit;text-decoration:none">
+                Indian Biophysical Society (The 45th IBS Meeting)
+              </a>
+            </li>
+            <li>
+              <a href="https://www.tifr.res.in/~ipa1970/" style="color:inherit;text-decoration:none">
+                Indian Physics Association (The IPA YPM 2022)
+              </a>
+            </li>
+            <li>
+              <a href="https://www.tifr.res.in/~ipa1970/gipwg/" style="color:inherit;text-decoration:none">
+                The Gender in Physics Working Group (GIPWG) of the IPA (2023)
+              </a>
+            </li>
+          </ul>
+        </div>
       </div>
-
-    </section>
-  </main>
+    </div>
+  </section>
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer">
     <div class="container">
@@ -361,19 +347,19 @@
   <!--render sphere-->
   <script>
     var slideIndex = 0;
-        carousel();
+    carousel();
 
-        function carousel() {
-            var i;
-            var x = document.getElementsByClassName("slides");
-            for (i = 0; i < x.length; i++) {
-                x[i].style.display = "none";
-            }
-            slideIndex++;
-            if (slideIndex > x.length) { slideIndex = 1 }
-            x[slideIndex - 1].style.display = "block";
-            setTimeout(carousel, 3000); // Change image every 2 seconds
-        }
+    function carousel() {
+      var i;
+      var x = document.getElementsByClassName("slides");
+      for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";
+      }
+      slideIndex++;
+      if (slideIndex > x.length) { slideIndex = 1 }
+      x[slideIndex - 1].style.display = "block";
+      setTimeout(carousel, 3000); // Change image every 2 seconds
+    }
   </script>
 </body>
 
