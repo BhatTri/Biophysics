@@ -1605,3 +1605,37 @@ transform: translateY(-4px) scale(1.02);
   height: 200px;
   overflow: scroll;
 }
+.opportunity{
+  padding-top:10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  padding-left: 5%;
+  padding-right: 5%;
+  color:black
+
+}
+
+.bsmspub{
+  padding-top:10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  padding-left: 5%;
+  padding-right: 5%;
+  color:white;
+  background-color: blueviolet;
+}
+
+
+.msthesis{
+  padding-top:10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  padding-left: 5%;
+  padding-right: 5%;
+  color:white;
+  background-color: purple;
+}
+.labvisit .year{
+  font-size:16px;
+  border-radius: 0px;
+}
