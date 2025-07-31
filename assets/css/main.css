@@ -1351,6 +1351,86 @@ h6 {
   list-style-type: none;
 }
 
+/* Desktop PI container */
+.PI .image{
+    padding-top:40px;
+    padding-bottom: 0px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.PI .image img{
+    width:90%
+}
+
+.PI .info{
+    padding-left:10%;
+    padding-top:50px;
+    padding-right: 10%;
+    align-items: center;
+}
+/* Mobile PI Container */
+@media(max-width:768px){
+  .PI .image{
+        padding-top:40px;
+        padding-bottom: 0px;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+.PI .image img{
+        width:90%
+    }   
+}
+
+
+/* social links btn */
+.tp-social{
+    padding-top:5px;
+    
+    display: inline-block;
+    padding-bottom: 20px;
+}
+.tp-social-btn {
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:15px;
+    padding-right: 15px;
+    border-radius: 20px;
+    width: auto;
+}
+.tp-social-bg-google-scholar {
+background-color: white;
+color: black;
+}
+
+.tp-social-bg-x {
+background-color: rgb(0, 19, 27);
+color: white;
+}
+
+.tp-social-bg-linkedin {
+background-color: #0077b5;
+color: white;
+}
+
+.tp-social-bg-orcid {
+background-color: #a6ce39;
+color: white;
+}
+
+.tp-social-bg-irins {
+background-color: #004080;
+color: white;
+}
+
+.tp-social-bg-wos {
+background-color: #ff9900;
+color: white;
+}
+#publication:hover{
+transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  background: white;
+}
 .card {
   position: relative;
   display: block;
@@ -1359,11 +1439,22 @@ h6 {
   overflow: hidden;
   text-decoration: none;
 }
-
-.card__image {      
+.card__image {
   width: 100%;
-  height: auto;
+  height: 400px;
+  object-fit: cover;   /* This will crop the image */
+  object-position: center; /* Optional: center the cropping */
 }
+@media(max-width:768px){
+  
+ .card__image {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;   /* This will crop the image */
+  object-position: center; /* Optional: center the cropping */
+} 
+}
+
 
 .card__overlay {
   position: absolute;
