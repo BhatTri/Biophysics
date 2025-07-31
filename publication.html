@@ -157,92 +157,96 @@
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
     <script>
-        const xmlString = document.getElementById("publications").textContent;
-        const xml = new DOMParser().parseFromString(xmlString, "application/xml");
-        const members = xml.querySelectorAll("pub");
-        const container = document.getElementById("publications-container");
-        const years = [];
-        members.forEach(member => {
-            const name = member.querySelector("name").textContent;
-            const year = member.querySelector("year").textContent;
-            const link = member.querySelector("link").textContent;
-            const journal = member.querySelector("journal").textContent;
-            const authors = member.querySelector("authors").textContent;
-            const image = "./images/publications/"+member.querySelector("image").textContent;
-            const note = member.querySelector("note").textContent;
-            const arvix = member.querySelector("arvix").textContent;
-            const arvix_link = member.querySelector("arvix_link").textContent;
-            const arvix_display = member.querySelector("arvix_display").textContent;
-            const special_notes = member.querySelector("special_notes").innerHTML;
-            const special_notes_link = member.querySelector("special_notes_link").textContent;
-            if (!years.includes(year)) {
-                years.push(year);
-                year_html = `<div class="year">${year}</div>`;
-            }else{
-                year_html = ``;
-            }
+        fetch("./data/publications.xml")
+            .then(response => response.text())
+                .then(xmlString => {
+            const xml = new DOMParser().parseFromString(xmlString, "application/xml");
+            const members = xml.querySelectorAll("pub");
+        
+            const container = document.getElementById("publications-container");
+            const years = [];
+            members.forEach(member => {
+                const name = member.querySelector("name").textContent;
+                const year = member.querySelector("year").textContent;
+                const link = member.querySelector("link").textContent;
+                const journal = member.querySelector("journal").textContent;
+                const authors = member.querySelector("authors").textContent;
+                const image = "./images/publications/"+member.querySelector("image").textContent;
+                const note = member.querySelector("note").textContent;
+                const arvix = member.querySelector("arvix").textContent;
+                const arvix_link = member.querySelector("arvix_link").textContent;
+                const arvix_display = member.querySelector("arvix_display").textContent;
+                const special_notes = member.querySelector("special_notes").innerHTML;
+                const special_notes_link = member.querySelector("special_notes_link").textContent;
+                if (!years.includes(year)) {
+                    years.push(year);
+                    year_html = `<div class="year">${year}</div>`;
+                }else{
+                    year_html = ``;
+                }
 
-            
-            
+                
+                
 
-            const html = year_html+`
-            <div class="row" id="publication" style="padding-top:5px;padding-bottom:5px;">
+                const html = year_html+`
+                <div class="row" id="publication" style="padding-top:5px;padding-bottom:5px;">
 
-                <div class="col-sm-8">
+                    <div class="col-sm-8">
 
-                    <li>
-                        <b><i>${name}</i></b>
-                        
-                        <div class="padding-left:15px;padding-right:15px;">
-                            ${authors}
-                            <br>
-                            <div class="tp-social">
-                                <a style="padding-top:2px;padding-bottom:2px;padding-left:5px;padding-right:5px;border-radius:10px;" class="tp-social-bg-orcid" href="${link}" target="_blank">
-                                    ${journal}
-                                </a>
+                        <li>
+                            <b><i>${name}</i></b>
+                            
+                            <div class="padding-left:15px;padding-right:15px;">
+                                ${authors}
+                                <br>
+                                <div class="tp-social">
+                                    <a style="padding-top:2px;padding-bottom:2px;padding-left:5px;padding-right:5px;border-radius:10px;" class="tp-social-bg-orcid" href="${link}" target="_blank">
+                                        ${journal}
+                                    </a>
+                                </div>
+                                <div style="color:purple;" class="tp-social">                            
+                                    ${note}
+                                </div>
+                                <!--<div class="tp-social">
+                                    <a style="padding-top:2px;padding-bottom:2px;padding-left:5px;padding-right:5px;border-radius:10px;" class="tp-social-bg-irins" href="${link}" target="_blank">
+                                        ${year}
+                                    </a>
+                                </div>-->
+                                <br>
                             </div>
-                            <div style="color:purple;" class="tp-social">                            
-                                ${note}
+                            ${special_notes ? `<br>${special_notes}` : ''}
+
+
+                        </li>
+                    </div>
+                    <div class="col-sm-4">
+                        <div style="position: relative; display: inline-block; text-align: center;">
+                        <a href="${link}" target="_blank">
+                            <img src="${image}" alt="Journal Preview" style="width: 100%;height:200px; border-radius: 20px;">
+                            <div style="
+                            position: absolute;
+                            top: 0px;
+                            left: 0px;
+                            justify-content:center;
+                            background-color: rgba(0, 20, 20, 0.4);
+                            color: white;
+                            font-size: 14px;
+                            border-radius: 20px;
+                            font-family: sans-serif;
+                            width:100%;
+                            height:100%;
+
+                            ">
+                                <div style="padding-top:80px;"><b>Click here for journal link</b></div>
                             </div>
-                            <!--<div class="tp-social">
-                                <a style="padding-top:2px;padding-bottom:2px;padding-left:5px;padding-right:5px;border-radius:10px;" class="tp-social-bg-irins" href="${link}" target="_blank">
-                                    ${year}
-                                </a>
-                            </div>-->
-                            <br>
+                        </a>
                         </div>
-                        ${special_notes ? `<br>${special_notes}` : ''}
-
-
-                    </li>
-                </div>
-                <div class="col-sm-4">
-                    <div style="position: relative; display: inline-block; text-align: center;">
-                    <a href="${link}" target="_blank">
-                        <img src="${image}" alt="Journal Preview" style="width: 100%;height:200px; border-radius: 20px;">
-                        <div style="
-                        position: absolute;
-                        top: 0px;
-                        left: 0px;
-                        justify-content:center;
-                        background-color: rgba(0, 20, 20, 0.4);
-                        color: white;
-                        font-size: 14px;
-                        border-radius: 20px;
-                        font-family: sans-serif;
-                        width:100%;
-                        height:100%;
-
-                        ">
-                            <div style="padding-top:80px;"><b>Click here for journal link</b></div>
-                        </div>
-                    </a>
                     </div>
                 </div>
-            </div>
-            `;
-            container.innerHTML += html;
-        }); 
+                `;
+                container.innerHTML += html;
+            }); 
+        });
     </script>
 </body>
 
