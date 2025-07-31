@@ -149,7 +149,7 @@
                     <div class="col-sm-4">
                         <li>
                         <div class="card">
-                            <img src="${image}" class="card__image" alt="${name}" />
+                            <img src="${image}" style="height:400px" class="card__image" alt="${name}" />
                             <p style="padding-top:40px"></p>
                             <div class="card__overlay">
                             <div class="card__header">
@@ -175,16 +175,7 @@
             }
         });
    
-  });
-
-        fetch("https://tanmay1902.github.io/Biophysics/data/labmembers.xml").then(response => response.text()).then(xmlString => {
-            const xml = new DOMParser().parseFromString(xmlString, "application/xml");
-            const members = xml.querySelectorAll("member");
-
-            // Now you can use `members` as needed
-        }).catch(error => console.error("Error loading XML:", error));
-
-                    
+  });               
     </script>
 
     <script>
