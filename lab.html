@@ -122,11 +122,15 @@
     <script src="assets/vendor/php-email-form/validate.js"></script>
     
     <script>
-        const xmlString = document.getElementById("labdata").textContent;
-        const xml = new DOMParser().parseFromString(xmlString, "application/xml");
-        const members = xml.querySelectorAll("member");
-        const container = document.getElementById("members-container");
-        members.forEach(member => {
+
+        fetch("./data/labmembers.xml")
+.then(response => response.text())
+  .then(xmlString => {
+    const xml = new DOMParser().parseFromString(xmlString, "application/xml");
+    const members = xml.querySelectorAll("member");
+    const container = document.getElementById("members-container");
+    
+    members.forEach(member => {
             const name = member.querySelector("name").textContent;
             const email = member.querySelector("email").textContent;
             const image = member.querySelector("image_link").textContent;
@@ -169,7 +173,18 @@
                 container.innerHTML += html
         
             }
-        });            
+        });
+   
+  });
+
+        fetch("https://tanmay1902.github.io/Biophysics/data/labmembers.xml").then(response => response.text()).then(xmlString => {
+            const xml = new DOMParser().parseFromString(xmlString, "application/xml");
+            const members = xml.querySelectorAll("member");
+
+            // Now you can use `members` as needed
+        }).catch(error => console.error("Error loading XML:", error));
+
+                    
     </script>
 
     <script>
