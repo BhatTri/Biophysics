@@ -214,7 +214,14 @@
                 </div>
             </div>
         </section>
+        <br>
+        <section style="padding-left:20px;padding-right:20px;padding-top:30px">
+            <h2>Gallery</h2>
+            <h6>Moments</h6>
+            <div id="gallery">
 
+            </div>
+        </section>
     </main>
     <!-- ======= Footer ======= -->
     <footer id="footer" class="footer">
@@ -257,6 +264,33 @@
             x[slideIndex - 1].style.display = "block";
             setTimeout(carousel, 3000); // Change image every 2 seconds
         }
+    </script>
+    <script>
+        const folderUrl = "images/gallery/";
+
+    fetch(folderUrl)
+      .then(response => response.text())
+      .then(html => {
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, "text/html");
+
+        const links = [...doc.querySelectorAll("a")];
+        const imageFiles = links
+          .map(a => a.getAttribute("href"))
+          .filter(href =>
+            href.match(/\.(jpg|jpeg|png|gif)$/i)
+          );
+
+        const container = document.getElementById("gallery");
+        imageFiles.forEach(file => {
+          const img = document.createElement("img");
+          img.src = folderUrl + file;
+          container.appendChild(img);
+        });
+      })
+      .catch(err => {
+        console.error("Failed to load images:", err);
+      });
     </script>
 </body>
 
