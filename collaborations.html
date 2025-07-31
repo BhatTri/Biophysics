@@ -216,18 +216,29 @@
             </div>
         </section>
         <br>
-        <section id="gallery" style="padding-left:20px;padding-right:20px;padding-top:30px">
+        <section style="padding-left:20px;padding-right:20px;padding-top:30px">
             <h2>Gallery</h2>
             <h6>Moments</h6>
             <div class="container-fluid">
 
-            <div class="row gy-4 justify-content-center">
-                <div id="gallery-image">
-
-                </div>
+            <div id="gallery-image" class="row gy-4 justify-content-center">
+                
             </div>
         </section>
     </main>
+
+
+    <!-- Global modal element (only once!) -->
+    <div id="imageModal" class="modal" onclick="closeModal()">
+  <span class="close" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+    <img id="modal-img" src="" alt="">
+    <div id="modal-caption"></div>
+  </div>
+</div>
+
+
+
     <!-- ======= Footer ======= -->
     <footer id="footer" class="footer">
         <div class="container">
@@ -272,27 +283,40 @@
     </script>
     <script>
         fetch("./data/gallery.xml")
-            .then(response => response.text())
-                .then(xmlString => {
-            const xml = new DOMParser().parseFromString(xmlString, "application/xml");
-            const members = xml.querySelectorAll("image");
-        
-            const container = document.getElementById("gallery-image");
-            members.forEach(member => {
-                const url = member.querySelector("url").textContent;
-                const caption = member.querySelector("caption").textContent;
-                const html = `<div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="gallery-item h-100">
-                <img src="images/gallery/${url}" class="img-fluid" alt="${caption}">
-                <div class="gallery-links d-flex align-items-center justify-content-center">
-                    <a href="images/gallery/${url}" title="${caption}" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-                </div>
-                </div>
-            </div>`;
+  .then(response => response.text())
+  .then(xmlString => {
+    const xml = new DOMParser().parseFromString(xmlString, "application/xml");
+    const images = xml.querySelectorAll("image");
+    
+    const container = document.getElementById("gallery-image");
+    images.forEach(img => {
+      const url = img.querySelector("url").textContent;
+      const caption = img.querySelector("caption").textContent;
 
-            container.innerHTML += html
-            });
-        });
+      const html = `
+      <div class="col-sm-4 image-gallery-container">
+            <img src="images/gallery/${url}" alt="${caption}" class="image-gallery" onclick="openModal(this)">
+      </div>
+      `;
+      container.innerHTML += html;
+    });
+  });
+
+// Modal logic
+function openModal(imgElement) {
+  const modal = document.getElementById("imageModal");
+  const modalImg = document.getElementById("modal-img");
+  const modalCaption = document.getElementById("modal-caption");
+
+  modal.style.display = "block";
+  modalImg.src = imgElement.src;
+  modalCaption.textContent = imgElement.alt;
+}
+
+function closeModal() {
+  document.getElementById("imageModal").style.display = "none";
+}
+
     </script>
 </body>
 
