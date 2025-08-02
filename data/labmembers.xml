@@ -1,0 +1,67 @@
+<lab_members>
+
+    <member>
+        <name>Tripta Bhatia</name>
+        <image_link>./images/tripta/citations.jpeg</image_link>
+        <position>Assisstant Professor</position>
+        <additional>DBT - Ramalingaswami Fellow</additional>
+        <email>triptabhatia@iisermohali.ac.in</email>
+        <display>true</display>
+    </member>
+
+    <member>
+        <name>Harshmeet Kaur</name>
+        <image_link>./images/tripta/harshmeet.jpg</image_link>
+        <position>PhD (SRF)</position>
+        <additional>Publications (2)</additional>
+        <email>ph22037@iisermohali.ac.in</email>
+        <display>true</display>
+    </member>
+
+    <member>
+        <name>Rajni Kudawla</name>
+        <image_link>./images/tripta/rajni.jpg</image_link>
+        <position>PhD (SRF)</position>
+        <additional>Publications (3)</additional>
+        <email>ph21072@iisermohali.ac.in</email>
+        <display>true</display>
+    </member>
+
+    <member>
+        <name>Suchitra</name>
+        <image_link>./images/tripta/Shuchita.jpeg</image_link>
+        <position>PhD (JRF)</position>
+        <additional></additional>
+        <email>ph23072@iisermohali.ac.in</email>
+        <display>true</display>
+    </member>
+
+    <member>
+        <name>Tanmay Pandey</name>
+        <image_link>./images/tripta/tanmay.jpg</image_link>
+        <position>BSMS</position>
+        <additional>Publications (2)</additional>
+        <email>ms22113@iisermohali.ac.in</email>
+        <display>true</display>
+    </member>
+
+    <member>
+        <name>Ridhima</name>
+        <image_link>./images/tripta/Ridima.jpeg</image_link>
+        <position>BSMS</position>
+        <additional></additional>
+        <email>ms23202@iisermohali.ac.in</email>
+        <display>true</display>
+    </member>
+
+    <member>
+        <name>Avneesh</name>
+        <image_link>./images/tripta/Avneesh.jpeg</image_link>
+        <position>BSMS</position>
+        <additional>Zenodo Publication (1)</additional>
+        <email>ms23249@iisermohali.ac.in</email>
+        <display>true</display>
+    </member>
+
+
+</lab_members>

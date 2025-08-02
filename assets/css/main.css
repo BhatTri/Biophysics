@@ -1351,6 +1351,86 @@ h6 {
   list-style-type: none;
 }
 
+/* Desktop PI container */
+.PI .image{
+    padding-top:40px;
+    padding-bottom: 0px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.PI .image img{
+    width:90%
+}
+
+.PI .info{
+    padding-left:10%;
+    padding-top:50px;
+    padding-right: 10%;
+    align-items: center;
+}
+/* Mobile PI Container */
+@media(max-width:768px){
+  .PI .image{
+        padding-top:40px;
+        padding-bottom: 0px;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+.PI .image img{
+        width:90%
+    }   
+}
+
+
+/* social links btn */
+.tp-social{
+    padding-top:5px;
+    
+    display: inline-block;
+    padding-bottom: 20px;
+}
+.tp-social-btn {
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:15px;
+    padding-right: 15px;
+    border-radius: 20px;
+    width: auto;
+}
+.tp-social-bg-google-scholar {
+background-color: white;
+color: black;
+}
+
+.tp-social-bg-x {
+background-color: rgb(0, 19, 27);
+color: white;
+}
+
+.tp-social-bg-linkedin {
+background-color: #0077b5;
+color: white;
+}
+
+.tp-social-bg-orcid {
+background-color: #a6ce39;
+color: white;
+}
+
+.tp-social-bg-irins {
+background-color: #004080;
+color: white;
+}
+
+.tp-social-bg-wos {
+background-color: #ff9900;
+color: white;
+}
+#publication:hover{
+transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  background: white;
+}
 .card {
   position: relative;
   display: block;
@@ -1359,11 +1439,22 @@ h6 {
   overflow: hidden;
   text-decoration: none;
 }
-
-.card__image {      
+.card__image {
   width: 100%;
-  height: auto;
+  height: 400px;
+  object-fit: cover;   /* This will crop the image */
+  object-position: center; /* Optional: center the cropping */
 }
+@media(max-width:768px){
+  
+ .card__image {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;   /* This will crop the image */
+  object-position: center; /* Optional: center the cropping */
+} 
+}
+
 
 .card__overlay {
   position: absolute;
@@ -1457,4 +1548,158 @@ h6 {
   padding-right: 30px;
   padding-left: 15px;
   border-radius: 5px;
+}
+
+.container-talk{
+  background-color: purple;
+  padding-top:5px;
+  padding-left:2.5%;
+  padding-right:2.5%;
+  padding-bottom:5px;
+  width:100%;
+  max-width:100%;
+  color:white;
+  overflow: hidden;
+  height:auto;
+
+}
+.container-talk iframe{
+  width:100%;
+  border-radius: 10px;
+}
+.container-talk img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.hero-img{
+  width:100%;
+  border-radius: 20px;
+}
+.text-talk{padding-top:10px;}
+.talk-btn{
+  padding-top:5px;
+  padding-bottom: 5px;
+  padding-left: 7.5px;
+  padding-right: 7.5px;
+  background-color: #27a776;
+  color: white;
+  border-radius: 10px;
+}
+
+.highlight-paper{
+  background-color: rgb(8, 8, 8);
+  padding-top:10px;
+  padding-left:2.5%;
+  padding-right:2.5%;
+  padding-bottom:5px;
+  width:100%;
+  max-width:100%;
+  color:rgb(246, 245, 245);
+
+}
+.highlight-paper .row .col-sm-4{
+  padding-bottom:20px;
+}
+.highlight-paper .row .col-sm-4 div{
+  height: 200px;
+  overflow: scroll;
+}
+.opportunity{
+  padding-top:10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  padding-left: 5%;
+  padding-right: 5%;
+  color:black
+
+}
+
+.bsmspub{
+  padding-top:10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  padding-left: 5%;
+  padding-right: 5%;
+  color:white;
+  background-color: blueviolet;
+}
+
+
+.msthesis{
+  padding-top:10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  padding-left: 5%;
+  padding-right: 5%;
+  color:white;
+  background-color: purple;
+}
+.labvisit .year{
+  font-size:16px;
+  border-radius: 0px;
+}
+
+/* Modal styling */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  overflow: auto;
+  animation-name: modal;
+  animation-duration: 0.5s;
+}
+
+@keyframes modal {
+  0%{opacity: 0;}
+  100%{opacity: 1;}
+}
+/* Modal content box */
+.modal-content {
+  background-color: #fff;
+  margin: 5% auto;
+  padding: 20px;
+  max-width: 800px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+/* Modal image */
+#modal-img {
+  max-width: 100%;
+  max-height: 70vh;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+/* Caption below image */
+#modal-caption {
+  font-size: 1.1rem;
+  color: #333;
+  padding: 0 10px;
+}
+
+/* Close button (optional) */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 25px;
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+}
+.image-gallery{
+  width:100%;
+  min-height: 300px;
+}
+
+.image-gallery-container{
+  height:300px;
+  max-height: 300px;
+  overflow: hidden;
+  object-fit:cover;
 }
