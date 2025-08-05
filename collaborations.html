@@ -60,6 +60,7 @@
                     <li><a href="toc.html">Teaching-Outreach</a></li>
                     <li><a href="publication.html">Lab-Publication</a></li>
                     <li><a href="softwares.html">Lab-Softwares</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
                 </ul>
             </nav><!-- .navbar -->
 <div class="header-social-links">
@@ -270,43 +271,6 @@
             x[slideIndex - 1].style.display = "block";
             setTimeout(carousel, 3000); // Change image every 2 seconds
         }
-    </script>
-    <script>
-        fetch("./data/gallery.xml")
-  .then(response => response.text())
-  .then(xmlString => {
-    const xml = new DOMParser().parseFromString(xmlString, "application/xml");
-    const images = xml.querySelectorAll("image");
-    
-    const container = document.getElementById("gallery-image");
-    images.forEach(img => {
-      const url = img.querySelector("url").textContent;
-      const caption = img.querySelector("caption").textContent;
-
-      const html = `
-      <div class="col-sm-4 image-gallery-container">
-            <img src="images/gallery/${url}" alt="${caption}" class="image-gallery" onclick="openModal(this)">
-      </div>
-      `;
-      container.innerHTML += html;
-    });
-  });
-
-// Modal logic
-function openModal(imgElement) {
-  const modal = document.getElementById("imageModal");
-  const modalImg = document.getElementById("modal-img");
-  const modalCaption = document.getElementById("modal-caption");
-
-  modal.style.display = "block";
-  modalImg.src = imgElement.src;
-  modalCaption.textContent = imgElement.alt;
-}
-
-function closeModal() {
-  document.getElementById("imageModal").style.display = "none";
-}
-
     </script>
 </body>
 
