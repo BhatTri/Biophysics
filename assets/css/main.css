@@ -1700,7 +1700,7 @@ transform: translateY(-4px) scale(1.02);
 .image-gallery-container{
   height:300px;
   max-height: 300px;
-  overflow: hidden;
+  overflow: scroll;
   object-fit:cover;
 }
 .container-events{
