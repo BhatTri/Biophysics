@@ -1,12 +1,29 @@
 <publications>
+
+<pub>
+        <name>TECPR2 is a Rab5 effector that regulates endosomal cargo recycling </name>
+        <year>2025</year>
+        <link>https://www.biorxiv.org/content/10.1101/2024.10.03.616509v1</link>
+        <journal>Nature Communications</journal>
+        <authors>Sankalita Paul, Rajat Pant, Poonam Sharma, Kshitiz Walia, Suhasi Gupta, Adhil Aseem, Kamlesh Kumari Bajwa, Ruben George, Yudish Varma, Tripta Bhatia, Rajesh Ramachandran, Amit Tuli, Mahak Sharma</authors>
+        <note>Accepted for publication/note>
+        <image>Tecpr2.png</image>
+        
+        <arvix>bioRvix</arvix>
+        <arvix_link>https://www.biorxiv.org/content/10.1101/2024.10.03.616509v1</arvix_link>
+        <arvix_display>false</arvix_display>
+        <special_notes></special_notes>
+        <special_notes_link></special_notes_link>
+    </pub>
+    
     <pub>
         <name>Experimentally Determined Shapes of Plasma Membrane Vesicles, Phosphatidylcholine (PC), and PC-Cholesterol Vesicles: Vesicle Deflation Analysis Using Confocal Microscopy</name>
         <year>2025</year>
         <link>https://pubs.acs.org/doi/10.1021/acs.jpcb.4c07431</link>
-        <journal>Journal of Physical Chemistry B</journal>
+        <journal>J. Phys. Chem. B</journal>
         <authors>Harshmeet Kaur, Rajni Kudawla, Tanmay Pandey, and Tripta Bhatia</authors>
-        <note>Accepted for publication</note>
-        <image>exp-determined.png</image>
+        <note>129, 24, 5913–5922.</note>
+        <image>exp-determined.png</image>. 
         
         <arvix>bioRxiv</arvix>
         <arvix_link>https://www.biorxiv.org/content/10.1101/2024.11.04.622000v1</arvix_link>
@@ -51,7 +68,7 @@
         <name>TECPR2 is a Rab5 effector that regulates endosomal cargo recycling </name>
         <year>2024</year>
         <link>https://www.biorxiv.org/content/10.1101/2024.10.03.616509v1</link>
-        <journal>Accepted in Nature Communications</journal>
+        <journal>bioRvix/journal>
         <authors>Sankalita Paul, Rajat Pant, Poonam Sharma, Kshitiz Walia, Suhasi Gupta, Adhil Aseem, Kamlesh Kumari Bajwa, Ruben George, Yudish Varma, Tripta Bhatia, Rajesh Ramachandran, Amit Tuli, Mahak Sharma</authors>
         <note>Preprint</note>
         <image>Tecpr2.png</image>
