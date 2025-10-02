@@ -8,6 +8,15 @@
         <email>triptabhatia@iisermohali.ac.in</email>
         <display>true</display>
     </member>
+    
+    <member>
+        <name>Rajni Kudawla</name>
+        <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg</image_link>
+        <position>PhD (SRF)</position>
+        <additional>Publications (3)</additional>
+        <email>ph21072@iisermohali.ac.in</email>
+        <display>true</display>
+    </member>
 
     <member>
         <name>Harshmeet Kaur</name>
@@ -18,14 +27,6 @@
         <display>true</display>
     </member>
 
-    <member>
-        <name>Rajni Kudawla</name>
-        <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg</image_link>
-        <position>PhD (SRF)</position>
-        <additional>Publications (3)</additional>
-        <email>ph21072@iisermohali.ac.in</email>
-        <display>true</display>
-    </member>
 
     <member>
         <name>Suchitra</name>
