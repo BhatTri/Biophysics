@@ -47,6 +47,16 @@
     </member>
 
     <member>
+        <name>Kartik Shelke</name>
+        <image_link>./images/gallery/KS.jpeg</image_link>
+        <position>Project Assistant</position>
+        <additional>Indo-German DBT project</additional>
+        <email></email>
+        <display>true</display>
+    </member>
+
+    
+    <member>
         <name>Ridhima</name>
         <image_link>./images/tripta/Ridima.jpeg</image_link>
         <position>BSMS</position>
