@@ -74,5 +74,14 @@
         <display>true</display>
     </member>
 
+    <member>
+        <name>Ayush Tomar</name>
+        <image_link>./images/tripta/ayush.jpeg</image_link>
+        <position>BSMS</position>
+        <additional>BSMS</additional>
+        <email>ms23123@iisermohali.ac.in</email>
+        <display>true</display>
+    </member>
+
 
 </lab_members>
