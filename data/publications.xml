@@ -1,6 +1,21 @@
 <publications>
 
 <pub>
+        <name>CHARMM36 DPPE bilayer freezes at 342 K </name>
+        <year>2025</year>
+        <link>https://doi.org/10.5281/zenodo.15662847</link>
+        <journal>Nature Communications</journal>
+        <authors>Avneesh Singh, Anubhav Ganguly, Markus S. Miettinen </authors>
+        <note>Dataset Zenodo </note>
+        <image></image>
+        <arvix></arvix>
+        <arvix_link></arvix_link>
+        <arvix_display>false</arvix_display>
+        <special_notes></special_notes>
+        <special_notes_link></special_notes_link>
+    </pub>
+        
+        <pub>
         <name>TECPR2 is a Rab5 effector that regulates endosomal cargo recycling </name>
         <year>2025</year>
         <link>https://www.biorxiv.org/content/10.1101/2024.10.03.616509v1</link>
