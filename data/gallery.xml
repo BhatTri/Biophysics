@@ -5,16 +5,6 @@
         <url>group.png</url>
         <caption> Group Meeting </caption>
     </image>
-     
-     <image>
-        <url>Rajni1.jpeg</url>
-        <caption> Rajni presenting at ISMC 2025 at Greece, Europe </caption>
-    </image>
-    
-     <image>
-        <url>6.jpeg</url>
-        <caption> Anveshika event </caption>
-    </image>
     
      <image>
         <url>25.jpeg</url>
@@ -24,6 +14,18 @@
     
      <image>
         <url>20.jpeg</url>
+        <caption> Anveshika event </caption>
+    </image>
+
+     
+     
+     <image>
+        <url>Rajni1.jpeg</url>
+        <caption> Rajni presenting at ISMC 2025 at Greece, Europe </caption>
+    </image>
+    
+     <image>
+        <url>6.jpeg</url>
         <caption> Anveshika event </caption>
     </image>
 
