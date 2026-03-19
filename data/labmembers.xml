@@ -92,7 +92,7 @@
     </member>
 
     <member>
-        <name>Keshav [left] </name>
+        <name>Keshav [leftside] </name>
         <image_link>./images/tripta/KA.jpg</image_link>
          <additional>Project: Membrane Viscosity measurements.</additional>
         <position>BSMS</position>
@@ -102,8 +102,28 @@
     </member>
 
     <member>
-        <name>Palaash, Aaradhya, Arya</name>
-        <image_link>./images/tripta/APA.jpg</image_link>
+        <name>Palaash/name>
+        <image_link>./images/tripta/P.jpeg</image_link>
+         <additional>Project: Membrane micromechanics measurements.</additional>
+        <position>BSMS</position>
+        <additional>BSMS</additional>
+        <email>MS23</email>
+        <display>true</display>
+    </member>
+
+     <member>
+        <name>Aaradhya/name>
+        <image_link>./images/tripta/Aa.jpeg</image_link>
+         <additional>Project: Membrane micromechanics measurements.</additional>
+        <position>BSMS</position>
+        <additional>BSMS</additional>
+        <email>MS23</email>
+        <display>true</display>
+    </member>
+
+      <member>
+        <name>Arya/name>
+        <image_link>./images/tripta/A.jpeg</image_link>
          <additional>Project: Membrane micromechanics measurements.</additional>
         <position>BSMS</position>
         <additional>BSMS</additional>
