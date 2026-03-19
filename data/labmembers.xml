@@ -12,7 +12,8 @@
     <member>
         <name>Rajni </name>
          <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg </image_link>
-       <additional>PhD project: Membrane asymmetry in the presence of Starch hydrolysis. Collaborations: Ruhr University, Bochum</additional>
+       <position></position>
+        <additional>PhD project: Membrane asymmetry in the presence of Starch hydrolysis. Collaborations: Ruhr University, Bochum</additional>
         <email>ph21072</email>
         <display>true</display>
     </member>
@@ -20,6 +21,7 @@
     <member>
         <name>Harshmeet Kaur </name> 
         <image_link>./images/tripta/harshmeet.jpg </image_link>
+          <position></position>
         <additional>PhD project: Membrane asymmetry in the presence of biomolecular interactions. Collaborations: Københavns Universitet, Ruhr University </additional>
         <email>ph22037</email>
         <display>true</display>
@@ -29,6 +31,7 @@
     <member>
         <name>Suchita </name> 
         <image_link>./images/tripta/Shuchita.jpeg </image_link>
+          <position></position>
          <additional>PhD project: Membrane asymmetry in the presence of lipid hydrolysis.</additional>
         <email>ph23072</email>
         <display>true</display>
@@ -37,6 +40,7 @@
     <member>
         <name>Tanmay</name> 
         <image_link>./images/tripta/tanmay.jpg </image_link>
+          <position></position>
         <additional>Project: AI based image segmentation.</additional>
         <additional>Collaborations: MPI </additional>
         <email>MS22113</email>
@@ -46,6 +50,7 @@
     <member>
         <name>Kartik  </name> 
         <image_link>./images/gallery/KS.jpeg </image_link>
+          <position></position>
         <additional>Project: Membrane asymmetry in the presence of polymers solution.</additional>
         <additional>Indo-German DBT Project</additional>
         <email>kartikshelke</email>
@@ -56,6 +61,7 @@
     <member>
         <name>Ridhima</name> 
         <image_link>./images/tripta/Ridima.jpeg </image_link>
+          <position></position>
          <additional>Project: Membrane fluctuations.</additional>
         <additional> Københavns Universitet </additional>
         <email>MS23202</email>
@@ -65,6 +71,7 @@
     <member>
         <name>Avneesh </name> 
         <image_link>./images/tripta/Avneesh.jpeg </image_link>
+          <position></position>
          <additional>Project: Membrane fluctuations, simulations.</additional>
          <additional> University of Bergen </additional>
         <email>MS23249</email>
@@ -74,6 +81,7 @@
     <member>
         <name>Ayush </name> 
         <image_link>./images/tripta/ayush.jpeg </image_link>
+          <position></position>
          <additional>Project: Membrane Viscosity measurements.</additional>
         <email>MS23123</email>
         <display>true</display>
@@ -82,6 +90,7 @@
     <member>
         <name>Keshav [leftside]  </name> 
         <image_link>./images/tripta/KA.jpg </image_link>
+          <position></position>
          <additional>Project: Membrane Viscosity measurements.</additional>
         <email>MS25224</email>
         <display>true</display>
@@ -90,6 +99,7 @@
     <member>
         <name>Palaash </name> 
         <image_link>./images/tripta/P.jpg </image_link>
+          <position></position>
          <additional>Project: Membrane micromechanics measurements.</additional>
         <email>MS23059</email>
         <display>true</display>
@@ -98,6 +108,7 @@
      <member>
         <name>Aaradhya  </name> 
         <image_link>./images/tripta/Aa.jpg </image_link>
+           <position></position>
          <additional>Project: Membrane micromechanics measurements.</additional>
         <email>MS23047</email>
         <display>true</display>
@@ -106,6 +117,7 @@
       <member>
         <name>Aryan </name> 
         <image_link>./images/tripta/A.jpg </image_link>
+            <position></position>
          <additional>Project: Membrane micromechanics measurements.</additional>
         <email>MS23142</email>
         <display>true</display>
