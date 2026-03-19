@@ -23,7 +23,6 @@
         <image_link>./images/tripta/harshmeet.jpg </image_link>
         <additional>PhD project: Membrane asymmetry in the presence of biomolecular interactions.</additional>
         <additional>Collaborations: Københavns Universitet </additional>
-        <additional>Publications (2)</additional>
         <email>ph22037</email>
         <display>true</display>
     </member>
@@ -33,8 +32,6 @@
         <name>Suchita  [PhD (SRF)] </name> 
         <image_link>./images/tripta/Shuchita.jpeg </image_link>
          <additional>PhD project: Membrane asymmetry in the presence of lipid hydrolysis.</additional>
-        <position>PhD (SRF)</position>
-        <additional></additional>
         <email>ph23072</email>
         <display>true</display>
     </member>
@@ -44,7 +41,6 @@
         <image_link>./images/tripta/tanmay.jpg </image_link>
         <additional>Project: AI based image segmentation.</additional>
         <additional>Collaborations: MPI </additional>
-        <additional>Publications (3)</additional>
         <email>MS22113</email>
         <display>true</display>
     </member>
@@ -53,7 +49,6 @@
         <name>Kartik [RA]  </name> 
         <image_link>./images/gallery/KS.jpeg </image_link>
         <additional>Project: Membrane asymmetry in the presence of polymers solution.</additional>
-        <additional>Collaborations: Pune University </additional>
         <additional>Indo-German DBT Project</additional>
         <email>kartikshelke</email>
         <display>true</display>
@@ -74,7 +69,6 @@
         <image_link>./images/tripta/Avneesh.jpeg </image_link>
          <additional>Project: Membrane fluctuations, simulations.</additional>
          <additional> University of Bergen </additional>
-        <additional>Zenodo Publication (1)</additional>
         <email>MS23249</email>
         <display>true</display>
     </member>
@@ -83,7 +77,6 @@
         <name>Ayush [BSMS] </name> 
         <image_link>./images/tripta/ayush.jpeg </image_link>
          <additional>Project: Membrane Viscosity measurements.</additional>
-        <additional>BSMS</additional>
         <email>MS23123</email>
         <display>true</display>
     </member>
@@ -92,7 +85,6 @@
         <name>Keshav [leftside] [BSMS] </name> 
         <image_link>./images/tripta/KA.jpg </image_link>
          <additional>Project: Membrane Viscosity measurements.</additional>
-        <additional>BSMS</additional>
         <email>MS25224</email>
         <display>true</display>
     </member>
