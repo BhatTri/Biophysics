@@ -11,7 +11,7 @@
     
     <member>
         <name>Rajni Kudawla [PhD (SRF)] </name> 
-        <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg</image_link>
+        <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg </image_link>
         <additional>PhD project: Membrane asymmetry in the presence of Starch hydrolysis.</additional>
         <additional>Collaborations: Ruhr University, Bochum</additional>
         <additional>Publications (3)</additional>
@@ -21,7 +21,7 @@
 
     <member>
         <name>Harshmeet Kaur  [PhD (SRF)] </name> 
-        <image_link>./images/tripta/harshmeet.jpg</image_link>
+        <image_link>./images/tripta/harshmeet.jpg </image_link>
         <additional>PhD project: Membrane asymmetry in the presence of biomolecular interactions.</additional>
         <additional>Collaborations: Københavns Universitet </additional>
         <additional>Publications (2)</additional>
@@ -32,7 +32,7 @@
 
     <member>
         <name>Suchita  [PhD (SRF)] </name> 
-        <image_link>./images/tripta/Shuchita.jpeg</image_link>
+        <image_link>./images/tripta/Shuchita.jpeg </image_link>
          <additional>PhD project: Membrane asymmetry in the presence of lipid hydrolysis.</additional>
         <position>PhD (SRF)</position>
         <additional></additional>
@@ -42,7 +42,7 @@
 
     <member>
         <name>Tanmay [BSMS] </name> 
-        <image_link>./images/tripta/tanmay.jpg</image_link>
+        <image_link>./images/tripta/tanmay.jpg </image_link>
         <additional>Project: AI based image segmentation.</additional>
         <additional>Collaborations: MPI </additional>
         <additional>Publications (3)</additional>
@@ -52,7 +52,7 @@
 
     <member>
         <name>Kartik [RA]  </name> 
-        <image_link>./images/gallery/KS.jpeg</image_link>
+        <image_link>./images/gallery/KS.jpeg </image_link>
         <additional>Project: Membrane asymmetry in the presence of polymers solution.</additional>
         <additional>Collaborations: Pune University </additional>
         <additional>Indo-German DBT Project</additional>
@@ -63,7 +63,7 @@
     
     <member>
         <name>Ridhima [BSMS] </name> 
-        <image_link>./images/tripta/Ridima.jpeg</image_link>
+        <image_link>./images/tripta/Ridima.jpeg </image_link>
          <additional>Project: Membrane fluctuations.</additional>
         <additional> Københavns Universitet </additional>
         <email>MS23202</email>
@@ -72,7 +72,7 @@
 
     <member>
         <name>Avneesh [BSMS] </name> 
-        <image_link>./images/tripta/Avneesh.jpeg</image_link>
+        <image_link>./images/tripta/Avneesh.jpeg </image_link>
          <additional>Project: Membrane fluctuations, simulations.</additional>
          <additional> University of Bergen </additional>
         <additional>Zenodo Publication (1)</additional>
@@ -82,7 +82,7 @@
 
     <member>
         <name>Ayush [BSMS] </name> 
-        <image_link>./images/tripta/ayush.jpeg</image_link>
+        <image_link>./images/tripta/ayush.jpeg </image_link>
          <additional>Project: Membrane Viscosity measurements.</additional>
         <additional>BSMS</additional>
         <email>MS23123</email>
@@ -91,7 +91,7 @@
 
     <member>
         <name>Keshav [leftside] [BSMS] </name> 
-        <image_link>./images/tripta/KA.jpg</image_link>
+        <image_link>./images/tripta/KA.jpg </image_link>
          <additional>Project: Membrane Viscosity measurements.</additional>
         <additional>BSMS</additional>
         <email>MS25224</email>
@@ -100,7 +100,7 @@
 
     <member>
         <name>Palaash [BSMS] </name> 
-        <image_link>./images/tripta/P.jpg</image_link>
+        <image_link>./images/tripta/P.jpg </image_link>
          <additional>Project: Membrane micromechanics measurements.</additional>
         <email>MS23059</email>
         <display>true</display>
@@ -108,7 +108,7 @@
 
      <member>
         <name>Aaradhya [BSMS] </name> 
-        <image_link>./images/tripta/Aa.jpg</image_link>
+        <image_link>./images/tripta/Aa.jpg </image_link>
          <additional>Project: Membrane micromechanics measurements.</additional>
         <email>MS23047</email>
         <display>true</display>
@@ -116,7 +116,7 @@
 
       <member>
         <name>Aryan [BSMS] </name> 
-        <image_link>./images/tripta/A.jpg</image_link>
+        <image_link>./images/tripta/A.jpg </image_link>
          <additional>Project: Membrane micromechanics measurements.</additional>
         <email>MS23142</email>
         <display>true</display>
