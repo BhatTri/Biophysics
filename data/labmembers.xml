@@ -5,129 +5,118 @@
         <image_link>./images/tripta/TB.jpg</image_link>
         <position>Assisstant Professor</position>
         <additional>DBT - Ramalingaswami Fellow</additional>
-        <email>triptabhatia@iisermohali.ac.in</email>
+        <email>triptabhatia</email>
         <display>true</display>
     </member>
     
     <member>
-        <name>Rajni Kudawla</name>
+        <name>Rajni Kudawla</name> <position>PhD (SRF)</position>
         <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg</image_link>
         <additional>PhD project: Membrane asymmetry in the presence of Starch hydrolysis.</additional>
-        <position>PhD (SRF), Received ANRF travel grant for ISMC-2025</position>
         <additional>Publications (3)</additional>
-        <email>ph21072@iisermohali.ac.in</email>
+        <email>ph21072</email>
         <display>true</display>
     </member>
 
     <member>
-        <name>Harshmeet Kaur</name>
+        <name>Harshmeet Kaur</name> <position>PhD (SRF)</position>
         <image_link>./images/tripta/harshmeet.jpg</image_link>
         <additional>PhD project: Membrane asymmetry in the presence of biomolecular interactions.</additional>
-        <position>PhD (SRF)</position>
         <additional>Publications (2)</additional>
-        <email>ph22037@iisermohali.ac.in</email>
+        <email>ph22037</email>
         <display>true</display>
     </member>
 
 
     <member>
-        <name>Suchita</name>
+        <name>Suchita</name> <position>PhD (SRF)</position>
         <image_link>./images/tripta/Shuchita.jpeg</image_link>
          <additional>PhD project: Membrane asymmetry in the presence of lipid hydrolysis.</additional>
         <position>PhD (SRF)</position>
         <additional></additional>
-        <email>ph23072@iisermohali.ac.in</email>
+        <email>ph23072</email>
         <display>true</display>
     </member>
 
     <member>
-        <name>Tanmay Pandey</name>
+        <name>Tanmay</name> <position>BSMS</position>
         <image_link>./images/tripta/tanmay.jpg</image_link>
         <additional>Project: AI based image segmentation.</additional>
-        <position>BSMS</position>
         <additional>Publications (3)</additional>
-        <email>ms22113@iisermohali.ac.in</email>
+        <email>MS22113</email>
         <display>true</display>
     </member>
 
     <member>
-        <name>Kartik Shelke</name>
+        <name>Kartik</name> <position>RA</position>
         <image_link>./images/gallery/KS.jpeg</image_link>
         <additional>Project: Membrane asymmetry in the presence of polymers solution.</additional>
-        <position>Project Assistant</position>
         <additional>Indo-German DBT Project</additional>
-        <email></email>
+        <email>kartikshelke</email>
         <display>true</display>
     </member>
 
     
     <member>
-        <name>Ridhima</name>
+        <name>Ridhima</name> <position>BSMS</position>
         <image_link>./images/tripta/Ridima.jpeg</image_link>
          <additional>Project: Membrane fluctuations.</additional>
-        <position>BSMS</position>
         <additional></additional>
-        <email>ms23202@iisermohali.ac.in</email>
+        <email>MS23202@iisermohali.ac.in</email>
         <display>true</display>
     </member>
 
     <member>
-        <name>Avneesh</name>
+        <name>Avneesh</name> <position>BSMS</position>
         <image_link>./images/tripta/Avneesh.jpeg</image_link>
          <additional>Project: Membrane fluctuations, simulations.</additional>
-        <position>BSMS</position>
         <additional>Zenodo Publication (1)</additional>
-        <email>ms23249@iisermohali.ac.in</email>
+        <email>MS23249@iisermohali.ac.in</email>
         <display>true</display>
     </member>
 
     <member>
-        <name>Ayush Tomar</name>
+        <name>Ayush</name> <position>BSMS</position>
         <image_link>./images/tripta/ayush.jpeg</image_link>
          <additional>Project: Membrane Viscosity measurements.</additional>
-        <position>BSMS</position>
         <additional>BSMS</additional>
-        <email>ms23123@iisermohali.ac.in</email>
+        <email>MS23123@iisermohali.ac.in</email>
         <display>true</display>
     </member>
 
     <member>
-        <name>Keshav [leftside] </name>
+        <name>Keshav [leftside] </name> <position>BSMS</position>
         <image_link>./images/tripta/KA.jpg</image_link>
          <additional>Project: Membrane Viscosity measurements.</additional>
-        <position>BSMS</position>
         <additional>BSMS</additional>
-        <email>ms25224@iisermohali.ac.in</email>
+        <email>MS25224@iisermohali.ac.in</email>
         <display>true</display>
     </member>
 
     <member>
-        <name>Palaash </name>
+        <name>Palaash </name> <position>BSMS</position>
         <image_link>./images/tripta/P.jpg</image_link>
          <additional>Project: Membrane micromechanics measurements.</additional>
-        <position>BSMS</position>
         <additional>BSMS</additional>
-        <email>MS23</email>
+        <email>MS23059</email>
         <display>true</display>
     </member>
 
      <member>
-        <name>Aaradhya </name>
+        <name>Aaradhya </name> <position>BSMS</position>
         <image_link>./images/tripta/Aa.jpg</image_link>
          <additional>Project: Membrane micromechanics measurements.</additional>
-        <position>BSMS</position>
         <additional>BSMS</additional>
-        <email>MS23</email>
+        <email>MS23047</email>
         <display>true</display>
     </member>
 
       <member>
-        <name>Arya </name>
+        <name>Aryan </name> <position>BSMS</position>
         <image_link>./images/tripta/A.jpg</image_link>
          <additional>Project: Membrane micromechanics measurements.</additional>
-        <position>BSMS</position>
         <additional>BSMS</additional>
-        <email>MS23</email>
+        <email>MS23142</email>
         <display>true</display>
     </member>
 
