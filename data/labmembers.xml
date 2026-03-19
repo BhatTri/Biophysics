@@ -43,7 +43,7 @@
     <member>
         <name>Tanmay Pandey</name>
         <image_link>./images/tripta/tanmay.jpg</image_link>
-        <additional>Project:AI based image segmentation.</additional>
+        <additional>Project: AI based image segmentation.</additional>
         <position>BSMS</position>
         <additional>Publications (3)</additional>
         <email>ms22113@iisermohali.ac.in</email>
@@ -88,6 +88,26 @@
         <position>BSMS</position>
         <additional>BSMS</additional>
         <email>ms23123@iisermohali.ac.in</email>
+        <display>true</display>
+    </member>
+
+    <member>
+        <name>Keshav [left] </name>
+        <image_link>./images/tripta/KA.jpeg</image_link>
+         <additional>Project: Membrane Viscosity measurements.</additional>
+        <position>BSMS</position>
+        <additional>BSMS</additional>
+        <email>ms25224@iisermohali.ac.in</email>
+        <display>true</display>
+    </member>
+
+    <member>
+        <name>Palaash, Aaradhya, Arya</name>
+        <image_link>./images/tripta/APA.jpeg</image_link>
+         <additional>Project: Membrane micromechanics measurements.</additional>
+        <position>BSMS</position>
+        <additional>BSMS</additional>
+        <email>MS23</email>
         <display>true</display>
     </member>
 
