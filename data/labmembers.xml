@@ -16,28 +16,18 @@
         <email>ph21072</email>
         <display>true</display>
     </member>
-    
-    <member>
-        <name>Rajni Kudawla [PhD (SRF)] </name> 
-        <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg </image_link>
-        <additional>PhD project: Membrane asymmetry in the presence of Starch hydrolysis.</additional>
-        <additional>Collaborations: Ruhr University, Bochum</additional>
-        <email>ph21072</email>
-        <display>true</display>
-    </member>
 
     <member>
-        <name>Harshmeet Kaur  [PhD (SRF)] </name> 
+        <name>Harshmeet Kaur </name> 
         <image_link>./images/tripta/harshmeet.jpg </image_link>
-        <additional>PhD project: Membrane asymmetry in the presence of biomolecular interactions.</additional>
-        <additional>Collaborations: Københavns Universitet </additional>
+        <additional>PhD project: Membrane asymmetry in the presence of biomolecular interactions. Collaborations: Københavns Universitet, Ruhr University </additional>
         <email>ph22037</email>
         <display>true</display>
     </member>
 
 
     <member>
-        <name>Suchita  [PhD (SRF)] </name> 
+        <name>Suchita </name> 
         <image_link>./images/tripta/Shuchita.jpeg </image_link>
          <additional>PhD project: Membrane asymmetry in the presence of lipid hydrolysis.</additional>
         <email>ph23072</email>
@@ -45,7 +35,7 @@
     </member>
 
     <member>
-        <name>Tanmay [BSMS] </name> 
+        <name>Tanmay</name> 
         <image_link>./images/tripta/tanmay.jpg </image_link>
         <additional>Project: AI based image segmentation.</additional>
         <additional>Collaborations: MPI </additional>
@@ -54,7 +44,7 @@
     </member>
 
     <member>
-        <name>Kartik [RA]  </name> 
+        <name>Kartik  </name> 
         <image_link>./images/gallery/KS.jpeg </image_link>
         <additional>Project: Membrane asymmetry in the presence of polymers solution.</additional>
         <additional>Indo-German DBT Project</additional>
@@ -64,7 +54,7 @@
 
     
     <member>
-        <name>Ridhima [BSMS] </name> 
+        <name>Ridhima</name> 
         <image_link>./images/tripta/Ridima.jpeg </image_link>
          <additional>Project: Membrane fluctuations.</additional>
         <additional> Københavns Universitet </additional>
@@ -73,7 +63,7 @@
     </member>
 
     <member>
-        <name>Avneesh [BSMS] </name> 
+        <name>Avneesh </name> 
         <image_link>./images/tripta/Avneesh.jpeg </image_link>
          <additional>Project: Membrane fluctuations, simulations.</additional>
          <additional> University of Bergen </additional>
@@ -82,7 +72,7 @@
     </member>
 
     <member>
-        <name>Ayush [BSMS] </name> 
+        <name>Ayush </name> 
         <image_link>./images/tripta/ayush.jpeg </image_link>
          <additional>Project: Membrane Viscosity measurements.</additional>
         <email>MS23123</email>
@@ -90,7 +80,7 @@
     </member>
 
     <member>
-        <name>Keshav [leftside] [BSMS] </name> 
+        <name>Keshav [leftside]  </name> 
         <image_link>./images/tripta/KA.jpg </image_link>
          <additional>Project: Membrane Viscosity measurements.</additional>
         <email>MS25224</email>
@@ -98,7 +88,7 @@
     </member>
 
     <member>
-        <name>Palaash [BSMS] </name> 
+        <name>Palaash </name> 
         <image_link>./images/tripta/P.jpg </image_link>
          <additional>Project: Membrane micromechanics measurements.</additional>
         <email>MS23059</email>
@@ -106,7 +96,7 @@
     </member>
 
      <member>
-        <name>Aaradhya [BSMS] </name> 
+        <name>Aaradhya  </name> 
         <image_link>./images/tripta/Aa.jpg </image_link>
          <additional>Project: Membrane micromechanics measurements.</additional>
         <email>MS23047</email>
@@ -114,7 +104,7 @@
     </member>
 
       <member>
-        <name>Aryan [BSMS] </name> 
+        <name>Aryan </name> 
         <image_link>./images/tripta/A.jpg </image_link>
          <additional>Project: Membrane micromechanics measurements.</additional>
         <email>MS23142</email>
