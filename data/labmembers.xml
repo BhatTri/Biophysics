@@ -62,7 +62,7 @@
         <image_link>./images/tripta/Ridima.jpeg</image_link>
          <additional>Project: Membrane fluctuations.</additional>
         <additional></additional>
-        <email>MS23202@iisermohali.ac.in</email>
+        <email>MS23202</email>
         <display>true</display>
     </member>
 
@@ -71,7 +71,7 @@
         <image_link>./images/tripta/Avneesh.jpeg</image_link>
          <additional>Project: Membrane fluctuations, simulations.</additional>
         <additional>Zenodo Publication (1)</additional>
-        <email>MS23249@iisermohali.ac.in</email>
+        <email>MS23249</email>
         <display>true</display>
     </member>
 
@@ -80,7 +80,7 @@
         <image_link>./images/tripta/ayush.jpeg</image_link>
          <additional>Project: Membrane Viscosity measurements.</additional>
         <additional>BSMS</additional>
-        <email>MS23123@iisermohali.ac.in</email>
+        <email>MS23123</email>
         <display>true</display>
     </member>
 
@@ -89,7 +89,7 @@
         <image_link>./images/tripta/KA.jpg</image_link>
          <additional>Project: Membrane Viscosity measurements.</additional>
         <additional>BSMS</additional>
-        <email>MS25224@iisermohali.ac.in</email>
+        <email>MS25224</email>
         <display>true</display>
     </member>
 
@@ -97,7 +97,6 @@
         <name>Palaash, </name> <position>BSMS</position>
         <image_link>./images/tripta/P.jpg</image_link>
          <additional>Project: Membrane micromechanics measurements.</additional>
-        <additional>BSMS</additional>
         <email>MS23059</email>
         <display>true</display>
     </member>
@@ -106,7 +105,6 @@
         <name>Aaradhya, </name> <position>BSMS</position>
         <image_link>./images/tripta/Aa.jpg</image_link>
          <additional>Project: Membrane micromechanics measurements.</additional>
-        <additional>BSMS</additional>
         <email>MS23047</email>
         <display>true</display>
     </member>
@@ -115,7 +113,6 @@
         <name>Aryan, </name> <position>BSMS</position>
         <image_link>./images/tripta/A.jpg</image_link>
          <additional>Project: Membrane micromechanics measurements.</additional>
-        <additional>BSMS</additional>
         <email>MS23142</email>
         <display>true</display>
     </member>
