@@ -41,7 +41,7 @@
         <name>Tanmay</name> 
         <image_link>./images/tripta/tanmay.jpg </image_link>
           <position></position>
-        <additional>Project: Coding, Image Segmentation.</additional>
+        <additional>Project: Softwares, Coding.</additional>
         <additional>Collaborations: MPI </additional>
         <email>MS22113</email>
         <display>true</display>
@@ -51,7 +51,7 @@
         <name>Kartik  </name> 
         <image_link>./images/gallery/KS.jpeg </image_link>
           <position></position>
-        <additional>Project: The Physics of Membrane-Polymer Asymmetry.</additional>
+        <additional>Project: Light-Matter Interactions.</additional>
         <additional>Indo-German DBT Project</additional>
         <email>kartikshelke</email>
         <display>true</display>
@@ -118,6 +118,15 @@
             <position></position>
          <additional>Project: Micromechanics.</additional>
         <email>MS23142</email>
+        <display>true</display>
+    </member>
+
+    <member>
+        <name>Shreyas</name> 
+        <image_link>./images/tripta/ </image_link>
+            <position></position>
+         <additional>Project: Membrane Dynamics.</additional>
+        <email>MS22135</email>
         <display>true</display>
     </member>
 
