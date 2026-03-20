@@ -1,15 +1,6 @@
 <lab_members>
 
     <member>
-        <name>Tripta [PI, 2021 - ] </name>
-        <image_link>./images/tripta/TB.jpg </image_link>
-        <position>Assisstant Professor</position>
-        <additional>DBT - Ramalingaswami Fellow</additional>
-        <email>triptabhatia</email>
-        <display>true</display>
-    </member>
-
-    <member>
         <name>Rajni [PhD, 2021-26] </name>
          <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg </image_link>
        <position></position>
@@ -48,7 +39,7 @@
     </member>
     
     <member>
-        <name>Tanmay [MS, 2026-27] </name> 
+        <name>Tanmay [MS thesis, 2026-27] </name> 
         <image_link>./images/tripta/tanmay.jpg </image_link>
           <position></position>
         <additional>Project: Softwares, Coding.</additional>
@@ -56,6 +47,14 @@
         <email>MS22113</email>
         <display>true</display>
     </member>
+    
+    <member>
+        <name>Shreyas [MS thesis, 2026-27] </name> 
+        <image_link>./images/tripta/ </image_link>
+            <position></position>
+         <additional>Project: Membrane Dynamics.</additional>
+        <email>MS22135</email>
+        <display>true</display>
 
     
     <member>
@@ -121,13 +120,14 @@
         <display>true</display>
     </member>
 
-    <member>
-        <name>Shreyas [MS, 2026-27] </name> 
-        <image_link>./images/tripta/ </image_link>
-            <position></position>
-         <additional>Project: Membrane Dynamics.</additional>
-        <email>MS22135</email>
+        <member>
+        <name>Tripta [PI, 2021 - ] </name>
+        <image_link>./images/tripta/TB.jpg </image_link>
+        <position>Assisstant Professor</position>
+        <additional>DBT - Ramalingaswami Fellow</additional>
+        <email>triptabhatia</email>
         <display>true</display>
+    </member>
 
         
     </member>
