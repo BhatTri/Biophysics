@@ -1,7 +1,7 @@
 <lab_members>
 
     <member>
-        <name>Tripta  </name>
+        <name>Tripta [PI] </name>
         <image_link>./images/tripta/TB.jpg </image_link>
         <position>Assisstant Professor</position>
         <additional>DBT - Ramalingaswami Fellow</additional>
@@ -9,19 +9,8 @@
         <display>true</display>
     </member>
 
-     <!-- ======= End Page Header ======= -->
-    <div class="page-header d-flex align-items-center">
-      <div class="container position-relative">
-        <div class="row d-flex justify-content-center">
-          <div class="col-lg-6 text-center">
-            <h2>PhDs</h2>
-          </div>
-        </div>
-      </div>
-    </div><!-- End Page Header -->
-
     <member>
-        <name>Rajni </name>
+        <name>Rajni [SRF] </name>
          <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg </image_link>
        <position></position>
         <additional>PhD project: The Physics of Membrane Asymmetry in the Presence of Starch Hydrolysis.</additional>
@@ -30,7 +19,7 @@
     </member>
 
     <member>
-        <name>Harshmeet </name> 
+        <name>Harshmeet [SRF] </name> 
         <image_link>./images/tripta/harshmeet.jpg </image_link>
           <position></position>
         <additional>PhD project: The Physics of Membrane Asymmetry in the Presence of Biomolecular Interactions. </additional>
@@ -40,7 +29,7 @@
 
 
     <member>
-        <name>Suchita </name> 
+        <name>Suchita [SRF] </name> 
         <image_link>./images/tripta/Shuchita.jpeg </image_link>
           <position></position>
          <additional>PhD project: Biophysics of Lipid Hydrolysis.</additional>
@@ -48,19 +37,8 @@
         <display>true</display>
     </member>
 
-     <!-- ======= End Page Header ======= -->
-    <div class="page-header d-flex align-items-center">
-      <div class="container position-relative">
-        <div class="row d-flex justify-content-center">
-          <div class="col-lg-6 text-center">
-            <h2>Research assistants (RAs) </h2>
-          </div>
-        </div>
-      </div>
-    </div><!-- End Page Header -->
-
      <member>
-        <name>Kartik  </name> 
+        <name>Kartik [RA]</name> 
         <image_link>./images/gallery/KS.jpeg </image_link>
           <position></position>
         <additional>Project: Light-Matter Interactions.</additional>
@@ -70,7 +48,7 @@
     </member>
     
     <member>
-        <name>Tanmay</name> 
+        <name>Tanmay [MS] </name> 
         <image_link>./images/tripta/tanmay.jpg </image_link>
           <position></position>
         <additional>Project: Softwares, Coding.</additional>
@@ -81,7 +59,7 @@
 
     
     <member>
-        <name>Ridhima</name> 
+        <name>Ridhima [BS] </name> 
         <image_link>./images/tripta/Ridima.jpeg </image_link>
           <position></position>
          <additional>Project: Membrane Dynamics.</additional>
@@ -90,7 +68,7 @@
     </member>
 
     <member>
-        <name>Avneesh </name> 
+        <name>Avneesh [BS] </name> 
         <image_link>./images/tripta/Avneesh.jpeg </image_link>
           <position></position>
          <additional>Project: Membrane Dynamics, Simulations.</additional>
@@ -99,7 +77,7 @@
     </member>
 
     <member>
-        <name>Ayush </name> 
+        <name>Ayush [BS] </name> 
         <image_link>./images/tripta/ayush.jpeg </image_link>
           <position></position>
          <additional>Project: Light-Matter Interactions.</additional>
@@ -108,7 +86,7 @@
     </member>
 
     <member>
-        <name>Keshav [leftside]  </name> 
+        <name>Keshav [BS] [leftside]  </name> 
         <image_link>./images/tripta/KA.jpg </image_link>
           <position></position>
          <additional>Project: Light-Matter Interactions.</additional>
@@ -117,7 +95,7 @@
     </member>
 
     <member>
-        <name>Palaash </name> 
+        <name>Palaash [BS] </name> 
         <image_link>./images/tripta/P.jpg </image_link>
           <position></position>
          <additional>Project: Micromechanics.</additional>
@@ -126,7 +104,7 @@
     </member>
 
      <member>
-        <name>Aaradhya  </name> 
+        <name>Aaradhya [BS] </name> 
         <image_link>./images/tripta/Aa.jpg </image_link>
            <position></position>
          <additional>Project: Micromechanics.</additional>
@@ -135,7 +113,7 @@
     </member>
 
       <member>
-        <name>Aryan </name> 
+        <name>Aryan [BS] </name> 
         <image_link>./images/tripta/A.jpg </image_link>
             <position></position>
          <additional>Project: Micromechanics.</additional>
@@ -144,7 +122,7 @@
     </member>
 
     <member>
-        <name>Shreyas</name> 
+        <name>Shreyas [MS] </name> 
         <image_link>./images/tripta/ </image_link>
             <position></position>
          <additional>Project: Membrane Dynamics.</additional>
