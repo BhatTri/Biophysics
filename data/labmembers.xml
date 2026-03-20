@@ -9,6 +9,17 @@
         <display>true</display>
     </member>
 
+     <!-- ======= End Page Header ======= -->
+    <div class="page-header d-flex align-items-center">
+      <div class="container position-relative">
+        <div class="row d-flex justify-content-center">
+          <div class="col-lg-6 text-center">
+            <h2>PhDs</h2>
+          </div>
+        </div>
+      </div>
+    </div><!-- End Page Header -->
+
     <member>
         <name>Rajni </name>
          <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg </image_link>
@@ -37,6 +48,27 @@
         <display>true</display>
     </member>
 
+     <!-- ======= End Page Header ======= -->
+    <div class="page-header d-flex align-items-center">
+      <div class="container position-relative">
+        <div class="row d-flex justify-content-center">
+          <div class="col-lg-6 text-center">
+            <h2>Research assistants (RAs) </h2>
+          </div>
+        </div>
+      </div>
+    </div><!-- End Page Header -->
+
+     <member>
+        <name>Kartik  </name> 
+        <image_link>./images/gallery/KS.jpeg </image_link>
+          <position></position>
+        <additional>Project: Light-Matter Interactions.</additional>
+        <additional>Indo-German DBT Project</additional>
+        <email>kartikshelke</email>
+        <display>true</display>
+    </member>
+    
     <member>
         <name>Tanmay</name> 
         <image_link>./images/tripta/tanmay.jpg </image_link>
@@ -44,16 +76,6 @@
         <additional>Project: Softwares, Coding.</additional>
         <additional>Collaborations: MPI </additional>
         <email>MS22113</email>
-        <display>true</display>
-    </member>
-
-    <member>
-        <name>Kartik  </name> 
-        <image_link>./images/gallery/KS.jpeg </image_link>
-          <position></position>
-        <additional>Project: Light-Matter Interactions.</additional>
-        <additional>Indo-German DBT Project</additional>
-        <email>kartikshelke</email>
         <display>true</display>
     </member>
 
@@ -128,6 +150,8 @@
          <additional>Project: Membrane Dynamics.</additional>
         <email>MS22135</email>
         <display>true</display>
+
+        
     </member>
 
 
