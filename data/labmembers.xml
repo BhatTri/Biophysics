@@ -13,7 +13,7 @@
         <name>Rajni </name>
          <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg </image_link>
        <position></position>
-        <additional>PhD project: Asymmetry in the presence of Starch hydrolysis.</additional>
+        <additional>PhD project: The Physics of Membrane Asymmetry in the Presence of Starch Hydrolysis.</additional>
         <email>ph21072</email>
         <display>true</display>
     </member>
@@ -22,7 +22,7 @@
         <name>Harshmeet </name> 
         <image_link>./images/tripta/harshmeet.jpg </image_link>
           <position></position>
-        <additional>PhD project: Asymmetry in the presence of biomolecular interactions. </additional>
+        <additional>PhD project: The Physics of Membrane Asymmetry in the Presence of Biomolecular Interactions. </additional>
         <email>ph22037</email>
         <display>true</display>
     </member>
@@ -32,7 +32,7 @@
         <name>Suchita </name> 
         <image_link>./images/tripta/Shuchita.jpeg </image_link>
           <position></position>
-         <additional>PhD project: Asymmetry in the presence of lipid hydrolysis.</additional>
+         <additional>PhD project: Biophysics of Lipid Hydrolysis.</additional>
         <email>ph23072</email>
         <display>true</display>
     </member>
@@ -41,7 +41,7 @@
         <name>Tanmay</name> 
         <image_link>./images/tripta/tanmay.jpg </image_link>
           <position></position>
-        <additional>Project: Image segmentation.</additional>
+        <additional>Project: Coding, Image Segmentation.</additional>
         <additional>Collaborations: MPI </additional>
         <email>MS22113</email>
         <display>true</display>
@@ -51,7 +51,7 @@
         <name>Kartik  </name> 
         <image_link>./images/gallery/KS.jpeg </image_link>
           <position></position>
-        <additional>Project: Asymmetry in the presence of polymers solution.</additional>
+        <additional>Project: The Physics of Membrane-Polymer Asymmetry.</additional>
         <additional>Indo-German DBT Project</additional>
         <email>kartikshelke</email>
         <display>true</display>
@@ -62,8 +62,7 @@
         <name>Ridhima</name> 
         <image_link>./images/tripta/Ridima.jpeg </image_link>
           <position></position>
-         <additional>Project: Membrane fluctuations.</additional>
-        <additional> Københavns Universitet </additional>
+         <additional>Project: Membrane Dynamics.</additional>
         <email>MS23202</email>
         <display>true</display>
     </member>
@@ -72,8 +71,7 @@
         <name>Avneesh </name> 
         <image_link>./images/tripta/Avneesh.jpeg </image_link>
           <position></position>
-         <additional>Project: Membrane fluctuations, simulations.</additional>
-         <additional> University of Bergen </additional>
+         <additional>Project: Membrane Dynamics, Simulations.</additional>
         <email>MS23249</email>
         <display>true</display>
     </member>
@@ -82,7 +80,7 @@
         <name>Ayush </name> 
         <image_link>./images/tripta/ayush.jpeg </image_link>
           <position></position>
-         <additional>Project: Viscosity measurements.</additional>
+         <additional>Project: Light-Matter Interactions.</additional>
         <email>MS23123</email>
         <display>true</display>
     </member>
@@ -91,7 +89,7 @@
         <name>Keshav [leftside]  </name> 
         <image_link>./images/tripta/KA.jpg </image_link>
           <position></position>
-         <additional>Project: Viscosity measurements.</additional>
+         <additional>Project: Light-Matter Interactions.</additional>
         <email>MS25224</email>
         <display>true</display>
     </member>
@@ -100,7 +98,7 @@
         <name>Palaash </name> 
         <image_link>./images/tripta/P.jpg </image_link>
           <position></position>
-         <additional>Project: Micromechanics measurements.</additional>
+         <additional>Project: Micromechanics.</additional>
         <email>MS23059</email>
         <display>true</display>
     </member>
@@ -109,7 +107,7 @@
         <name>Aaradhya  </name> 
         <image_link>./images/tripta/Aa.jpg </image_link>
            <position></position>
-         <additional>Project: Micromechanics measurements.</additional>
+         <additional>Project: Micromechanics.</additional>
         <email>MS23047</email>
         <display>true</display>
     </member>
@@ -118,7 +116,7 @@
         <name>Aryan </name> 
         <image_link>./images/tripta/A.jpg </image_link>
             <position></position>
-         <additional>Project: Micromechanics measurements.</additional>
+         <additional>Project: Micromechanics.</additional>
         <email>MS23142</email>
         <display>true</display>
     </member>
