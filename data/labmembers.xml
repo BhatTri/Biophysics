@@ -42,8 +42,7 @@
         <name>Tanmay [MS thesis, 2026-27] </name> 
         <image_link>./images/tripta/tanmay.jpg </image_link>
           <position></position>
-        <additional>Project: Imaging Softwares, Coding Analysis.</additional>
-        <additional>Collaborations: MPI </additional>
+        <additional>Project: Shape Dynamics Imaging Softwares, Coding Analysis, Simulations, AI.</additional>
         <email>MS22113</email>
         <display>true</display>
     </member>
@@ -52,7 +51,7 @@
         <name>Shreyas [MS thesis, 2026-27] </name> 
         <image_link>./images/tripta/Shreyas.jpeg </image_link>
             <position></position>
-         <additional>Project: Membrane Dynamics.</additional>
+         <additional>Project: Membrane Shape Dynamics.</additional>
         <email>MS22135</email>
         <display>true</display>
 
@@ -61,7 +60,7 @@
         <name>Ridhima [BS] </name> 
         <image_link>./images/tripta/Ridima.jpeg </image_link>
           <position></position>
-         <additional>Project: Membrane Dynamics.</additional>
+         <additional>Project: Membrane Shape Dynamics.</additional>
         <email>MS23202</email>
         <display>true</display>
     </member>
