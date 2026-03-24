@@ -4,7 +4,7 @@
         <name>Rajni [PhD, 2021-26] </name>
          <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg </image_link>
        <position></position>
-        <additional> PhD project: The Physics of Membrane Asymmetry in the Presence of Starch Hydrolysis. </additional> 
+        <additional> Project: The Physics of Membrane Asymmetry in the Presence of Starch Hydrolysis. </additional> 
         <email>ph21072</email>
         <display>true</display>
     </member>
@@ -13,7 +13,7 @@
         <name>Harshmeet [PhD, 2022-27] </name> 
         <image_link>./images/tripta/harshmeet.jpg </image_link>
           <position></position>
-        <additional>PhD project: The Physics of Membrane Asymmetry in the Presence of Biomolecular Interactions. </additional>
+        <additional>Project: The Physics of Membrane Asymmetry in the Presence of Biomolecular Interactions. </additional>
         <email>ph22037</email>
         <display>true</display>
     </member>
@@ -23,7 +23,7 @@
         <name>Suchita  [PhD, 2023-28] </name> 
         <image_link>./images/tripta/Shuchita.jpeg </image_link>
           <position></position>
-         <additional>PhD project: Biophysics of Lipid Hydrolysis.</additional>
+         <additional>Project: Biophysics of Lipid Hydrolysis.</additional>
         <email>ph23072</email>
         <display>true</display>
     </member>
@@ -39,10 +39,10 @@
     </member>
     
     <member>
-        <name>Tanmay [MS thesis, 2026-27] </name> 
+        <name>Tanmay [MS thesis, labmember since 2023] </name> 
         <image_link>./images/tripta/tanmay.jpg </image_link>
           <position></position>
-        <additional>Project: Shape Dynamics Imaging Softwares, Coding Analysis, Simulations, AI.</additional>
+        <additional>Project(s): Shape Dynamics Imaging Softwares, Coding Analysis, Simulations, AI.</additional>
         <email>MS22113</email>
         <display>true</display>
     </member>
@@ -57,7 +57,7 @@
 
     
     <member>
-        <name>Ridhima [BS] </name> 
+        <name>Ridhima [BS, labmember since 2025] </name> 
         <image_link>./images/tripta/Ridima.jpeg </image_link>
           <position></position>
          <additional>Project: Membrane Shape Dynamics.</additional>
@@ -66,7 +66,7 @@
     </member>
 
     <member>
-        <name>Avneesh [BS] </name> 
+        <name>Avneesh [BS, labmember since 2025] </name> 
         <image_link>./images/tripta/Avneesh.jpeg </image_link>
           <position></position>
          <additional>Project: Molecular Dynamics Simulations.</additional>
@@ -75,7 +75,7 @@
     </member>
 
     <member>
-        <name>Ayush [BS] </name> 
+        <name>Ayush [BS, labmember since 2025] </name> 
         <image_link>./images/tripta/ayush.jpeg </image_link>
           <position></position>
          <additional>Project: Light-Matter Interactions.</additional>
@@ -84,7 +84,7 @@
     </member>
 
     <member>
-        <name>Keshav [BS] [leftside]  </name> 
+        <name>Keshav [BS, labmember since 2025] [leftside]  </name> 
         <image_link>./images/tripta/KA.jpg </image_link>
           <position></position>
          <additional>Project: Light-Matter Interactions.</additional>
@@ -93,7 +93,7 @@
     </member>
 
     <member>
-        <name>Palaash [BS] </name> 
+        <name>Palaash [BS, labmember since 2025] </name> 
         <image_link>./images/tripta/P.jpg </image_link>
           <position></position>
          <additional>Project: Micromechanics.</additional>
@@ -102,7 +102,7 @@
     </member>
 
      <member>
-        <name>Aaradhya [BS] </name> 
+        <name>Aaradhya [BS, labmember since 2025] </name> 
         <image_link>./images/tripta/Aa.jpg </image_link>
            <position></position>
          <additional>Project: Micromechanics.</additional>
@@ -111,7 +111,7 @@
     </member>
 
       <member>
-        <name>Aryan [BS] </name> 
+        <name>Aryan [BS, labmember since 2025] </name> 
         <image_link>./images/tripta/A.jpg </image_link>
             <position></position>
          <additional>Project: Micromechanics.</additional>
