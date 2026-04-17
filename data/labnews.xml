@@ -2,6 +2,18 @@
  
  <event>
   <year>2026</year>
+    <month>May</month>
+    <desc>Dr. Archana joining as a PostDoc.</desc>
+  </event>  
+ 
+ <event>
+  <year>2026</year>
+    <month>April</month>
+    <desc>Rajni giving pre-thesis submission seminar.</desc>
+  </event>  
+ 
+ <event>
+  <year>2026</year>
     <month>March</month>
     <desc>Shuchita giving research talk at Ashoka University.</desc>
   </event>  
