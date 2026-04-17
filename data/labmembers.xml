@@ -57,7 +57,7 @@
 
     
     <member>
-        <name>Ridhima [BSMS, 2025 - ] </name> 
+        <name>Ridhima [BSMS, 2025 - 2026] </name> 
         <image_link>./images/tripta/Ridima.jpeg </image_link>
           <position></position>
          <additional>Project: Membrane Shape Dynamics.</additional>
@@ -66,7 +66,7 @@
     </member>
 
     <member>
-        <name>Avneesh [BSMS, 2025 - ] </name> 
+        <name>Avneesh [BSMS, 2025 - 2026] </name> 
         <image_link>./images/tripta/Avneesh.jpeg </image_link>
           <position></position>
          <additional>Project: Molecular Dynamics Simulations.</additional>
@@ -74,16 +74,7 @@
         <display>true</display>
     </member>
 
-    <member>
-        <name>Ayush [BSMS, 2025 - ] </name> 
-        <image_link>./images/tripta/ayush.jpeg </image_link>
-          <position></position>
-         <additional>Project: Light-Matter Interactions.</additional>
-        <email>MS23123</email>
-        <display>true</display>
-    </member>
-
-    <member>
+       <member>
         <name>Keshav [BSMS, 2025 - ] [leftside]  </name> 
         <image_link>./images/tripta/KA.jpg </image_link>
           <position></position>
@@ -93,7 +84,7 @@
     </member>
 
     <member>
-        <name>Palaash [BSMS, 2025 - ] </name> 
+        <name>Palaash [BSMS, 2025 - 2026] </name> 
         <image_link>./images/tripta/P.jpg </image_link>
           <position></position>
          <additional>Project: Micromechanics.</additional>
@@ -102,7 +93,7 @@
     </member>
 
      <member>
-        <name>Aaradhya [BSMS, 2025 - ] </name> 
+        <name>Aaradhya [BSMS, 2025 - 2026] </name> 
         <image_link>./images/tripta/Aa.jpg </image_link>
            <position></position>
          <additional>Project: Micromechanics.</additional>
@@ -111,7 +102,7 @@
     </member>
 
       <member>
-        <name>Aryan [BSMS, 2025 - ] </name> 
+        <name>Aryan [BSMS, 2025 - 2026] </name> 
         <image_link>./images/tripta/A.jpg </image_link>
             <position></position>
          <additional>Project: Micromechanics.</additional>
