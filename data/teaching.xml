@@ -1,6 +1,25 @@
 <teaching>
 
     <course>
+        <name>Laser Physics and Advanced Optics (PHY 421)</name>
+        <time>Monsoon Semester</time>
+        <year>2026</year>
+    </course> 
+    
+    <course>
+        <name>Science Communication (IDC 352)</name>
+        <time>Spring Semester</time>
+        <year>2026</year>
+    </course> 
+    
+    <course>
+        <name>Seminar Delivery (IDC 452)</name>
+        <time>Spring Semester</time>
+        <year>2026</year>
+    </course>
+    
+    
+    <course>
         <name>Topics in biophysics (PHY639)</name>
         <time>Monsoon Semester</time>
         <year>2025</year>
