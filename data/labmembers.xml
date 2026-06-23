@@ -1,15 +1,6 @@
 <lab_members>
 
-    <member>
-        <name>Rajni [PhD, 2021-26] </name>
-         <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg </image_link>
-       <position></position>
-        <additional> Project: The Physics of Membrane Asymmetry in the Presence of Starch Hydrolysis. </additional> 
-        <email>ph21072, Pre-Thesis Submission on 17th April 2026.</email>
-        <display>true</display>
-    </member>
-
-    <member>
+   <member>
         <name>Harshmeet [PhD, 2022-27] </name> 
         <image_link>./images/tripta/harshmeet.jpg </image_link>
           <position></position>
@@ -25,16 +16,6 @@
           <position></position>
          <additional>Project: Biophysics of Lipid Hydrolysis.</additional>
         <email>ph23072</email>
-        <display>true</display>
-    </member>
-
-     <member>
-        <name>Kartik [RA, 2025-28]</name> 
-        <image_link>./images/gallery/KS.jpeg </image_link>
-          <position></position>
-        <additional>Project: Light-Matter Interactions.</additional>
-        <additional>Indo-German DBT Project</additional>
-        <email>kartikshelke</email>
         <display>true</display>
     </member>
     
@@ -54,7 +35,7 @@
          <additional>Project: Membrane Shape Dynamics.</additional>
         <email>MS22135</email>
         <display>true</display>
-
+ </member>
 
        <member>
         <name>Keshav [BSMS, 2025 - ] [leftside]  </name> 
@@ -63,11 +44,27 @@
          <additional>Project: Light-Matter Interactions.</additional>
         <email>MS25224</email>
         <display>true</display>
+    </member> 
+    
+    <member>
+        <name>Palaash, Aaradhya, Aryan [BSMS, 2025 - ] [leftside]  </name> 
+        <image_link>./images/tripta/KA.jpg </image_link>
+          <position></position>
+         <additional>Project: Micromanipulation.</additional>
+        <email> </email>
+        <display>true</display>
     </member>
 
-
+ <member>
+        <name>Rajni [PhD, 2021-26] </name>
+         <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg </image_link>
+       <position></position>
+        <additional> Project: The Physics of Membrane Asymmetry in the Presence of Starch Hydrolysis. </additional> 
+        <email>ph21072, Thesis Submitted on 22nd June 2026.</email>
+        <display>true</display>
+    </member>
         
-    </member>
+   
 
 
 </lab_members>
