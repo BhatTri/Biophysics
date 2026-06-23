@@ -48,12 +48,16 @@
     
     <member>
         <name>Palaash, Aaradhya, Aryan [BSMS, 2025 - ] [leftside]  </name> 
-        <image_link>./images/tripta/KA.jpg </image_link>
+        <image_link>./images/gallery/APA.jpg </image_link>
           <position></position>
          <additional>Project: Micromanipulation.</additional>
         <email> </email>
         <display>true</display>
     </member>
+   <image>
+        <url>APA.jpg</url>
+        <caption> Science day, poster presentation </caption>
+    </image>
 
  <member>
         <name>Rajni [PhD, 2021-26] </name>
