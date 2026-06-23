@@ -3,7 +3,7 @@
  <member>
         <name>Rajni [PhD, 2021-26] </name>
          <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg </image_link>
-       <position></position>
+       <position> PhD Thesis Submitted </position>
         <additional> Project: The Physics of Membrane Asymmetry in the Presence of Starch Hydrolysis. </additional> 
         <email>ph21072, PhD Thesis Submitted on 22nd June 2026.</email>
         <display>true</display>
@@ -12,7 +12,7 @@
    <member>
         <name>Harshmeet [PhD, 2022-27] </name> 
         <image_link>./images/tripta/harshmeet.jpg </image_link>
-          <position></position>
+          <position> PhD Thesis Student </position>
         <additional>Project: The Physics of Membrane Asymmetry in the Presence of Biomolecular Interactions. </additional>
         <email>ph22037</email>
         <display>true</display>
@@ -22,7 +22,7 @@
     <member>
         <name>Shuchita  [PhD, 2023-28] </name> 
         <image_link>./images/tripta/Shuchita.jpeg </image_link>
-          <position></position>
+          <position> PhD Thesis Student </position>
          <additional>Project: Biophysics of Lipid Hydrolysis.</additional>
         <email>ph23072</email>
         <display>true</display>
@@ -31,7 +31,7 @@
     <member>
         <name>Tanmay [BSMS, 2023 - ] </name> 
         <image_link>./images/tripta/tanmay.jpg </image_link>
-          <position></position>
+          <position>  Master Thesis Student </position>
         <additional>Project(s): Shape Dynamics, Imaging Softwares, Coding Analysis, Simulations, AI.</additional>
         <email>MS22113</email>
         <display>true</display>
@@ -40,7 +40,7 @@
     <member>
         <name>Shreyas [BSMS, 2026-27] </name> 
         <image_link>./images/tripta/Shreyas.jpeg </image_link>
-            <position></position>
+            <position> Master Thesis Student </position>
          <additional>Project: Membrane Shape Dynamics.</additional>
         <email>MS22135</email>
         <display>true</display>
@@ -49,7 +49,7 @@
        <member>
         <name>Keshav, Avneesh [BSMS, 2025 - ]  </name> 
         <image_link>./images/tripta/KA.jpg </image_link>
-          <position></position>
+          <position> Project Students </position>
          <additional>Project: Light-Matter Interactions.</additional>
         <email>MS25224</email>
         <display>true</display>
@@ -58,7 +58,7 @@
     <member>
         <name>Palaash, Aaradhya, Aryan [BSMS, 2025 - ]  </name> 
         <image_link>./images/gallery/APA.jpg </image_link>
-          <position></position>
+          <position> Project Students </position>
          <additional>Project: Micromanipulation.</additional>
         <email> </email>
         <display>true</display>
