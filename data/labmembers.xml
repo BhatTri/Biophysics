@@ -1,5 +1,14 @@
 <lab_members>
 
+ <member>
+        <name>Rajni [PhD, 2021-26] </name>
+         <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg </image_link>
+       <position></position>
+        <additional> Project: The Physics of Membrane Asymmetry in the Presence of Starch Hydrolysis. </additional> 
+        <email>ph21072, PhD Thesis Submitted on 22nd June 2026.</email>
+        <display>true</display>
+    </member>
+   
    <member>
         <name>Harshmeet [PhD, 2022-27] </name> 
         <image_link>./images/tripta/harshmeet.jpg </image_link>
@@ -54,19 +63,8 @@
         <email> </email>
         <display>true</display>
     </member>
-   <image>
-        <url>APA.jpg</url>
-        <caption> Science day, poster presentation </caption>
-    </image>
-
- <member>
-        <name>Rajni [PhD, 2021-26] </name>
-         <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg </image_link>
-       <position></position>
-        <additional> Project: The Physics of Membrane Asymmetry in the Presence of Starch Hydrolysis. </additional> 
-        <email>ph21072, Thesis Submitted on 22nd June 2026.</email>
-        <display>true</display>
-    </member>
+  
+ </member>
         
    
 
