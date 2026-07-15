@@ -58,15 +58,16 @@
 
   <member>
         <name>Sahil [BSMS, 2026-27] </name> 
-        <image_link>./images/tripta/Sahil Deshmukh.jpg </image_link>
+        <image_link>./images/gallery/Sahil Deshmukh.jpg </image_link>
             <position> Master Thesis Student </position>
          <additional>Project: Membrane Shape Fluctuations.</additional>
         <email>MS22233</email>
         <display>true</display>
  </member>
-
+ 
+<member>
        <name>Swagotom [BSMS, 2026-27] </name> 
-        <image_link>./images/tripta/Swagotom Bhattacharjee.jpg </image_link>
+        <image_link>./images/gallery/Swagotom Bhattacharjee.jpg </image_link>
             <position> Master Thesis Student </position>
          <additional>Project: Red Blood Cell Mechanics.</additional>
         <email>MS22112</email>
@@ -75,7 +76,7 @@
 
        <member>
         <name>Keshav, Avneesh [BSMS, 2025 - ]  </name> 
-        <image_link>./images/tripta/KA.jpg </image_link>
+        <image_link>./images/gallery/KA.jpg </image_link>
           <position> Project Students </position>
          <additional>Project: Light-Matter Interactions.</additional>
         <email>MS25224</email>
@@ -90,8 +91,6 @@
         <email> </email>
         <display>true</display>
     </member>
-  
- </member>
         
    
 
