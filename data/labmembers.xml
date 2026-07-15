@@ -1,6 +1,16 @@
 <lab_members>
  
  <member>
+        <name>Dr. Archana Singh [2026-] </name>
+         <image_link>./images/gallery/AKS.jpeg </image_link>
+       <position> Postdoc</position>
+        <additional>  </additional> 
+        <email>archanaksingh/email>
+        <display>true</display>
+    </member>
+ 
+ 
+ <member>
         <name>Rajni [PhD, 2021-26] </name>
          <image_link>./images/gallery/Compfl-IIT Hyderabad.jpg </image_link>
        <position> PhD Thesis Submitted </position>
@@ -43,6 +53,23 @@
             <position> Master Thesis Student </position>
          <additional>Project: Membrane Shape Dynamics.</additional>
         <email>MS22135</email>
+        <display>true</display>
+ </member>
+
+  <member>
+        <name>Sahil [BSMS, 2026-27] </name> 
+        <image_link>./images/tripta/Sahil Deshmukh.jpg </image_link>
+            <position> Master Thesis Student </position>
+         <additional>Project: Membrane Shape Fluctuations.</additional>
+        <email>MS22233</email>
+        <display>true</display>
+ </member>
+
+       <name>Swagotom [BSMS, 2026-27] </name> 
+        <image_link>./images/tripta/Swagotom Bhattacharjee.jpg </image_link>
+            <position> Master Thesis Student </position>
+         <additional>Project: Red Blood Cell Mechanics.</additional>
+        <email>MS22112</email>
         <display>true</display>
  </member>
 
