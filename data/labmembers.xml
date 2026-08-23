@@ -88,7 +88,7 @@
         <image_link>./images/gallery/KA.jpg </image_link>
           <position> Project Students </position>
          <additional>Project: Light-Matter Interactions.</additional>
-        <email>MS25224</email>
+        <email>MS25224, MS23249</email>
         <display>true</display>
     </member> 
     
@@ -97,7 +97,7 @@
         <image_link>./images/gallery/APA.jpg </image_link>
           <position> Project Student </position>
          <additional>Project: Micromanipulation.</additional>
-        <email> </email>
+        <email> MS23059, MS23047, MS23142 </email>
         <display>true</display>
     </member>
 
@@ -106,7 +106,7 @@
         <image_link>./images/gallery/Anamika.png </image_link>
           <position> Project Student </position>
          <additional>Project: Light-Matter Interactions.</additional>
-        <email> </email>
+        <email> MS25293</email>
         <display>true</display>
     </member>
 
@@ -115,7 +115,7 @@
         <image_link>./images/gallery/Abhinav.png </image_link>
           <position> Project Student </position>
          <additional>Project: Membrane Shape Dynamics.</additional>
-        <email> </email>
+        <email>MS24115 </email>
         <display>true</display>
     </member>
 
@@ -124,7 +124,7 @@
         <image_link>./images/gallery/Sanya.jpeg </image_link>
           <position> Project Student </position>
          <additional>Project: Membrane Shape Dynamics.</additional>
-        <email> </email>
+        <email>MS23173 </email>
         <display>true</display>
     </member>
 
@@ -133,7 +133,16 @@
         <image_link>./images/gallery/Aryan.png </image_link>
           <position> Project Student </position>
          <additional>Project: Membrane Shape Dynamics.</additional>
-        <email> </email>
+        <email>MS24016 </email>
+        <display>true</display>
+    </member>
+
+ <member>
+        <name>Ayushmann [BSMS, 2026 - ]  </name> 
+        <image_link> </image_link>
+          <position> Project Student </position>
+         <additional>Project: Membrane Shape Dynamics.</additional>
+        <email>MS25002 </email>
         <display>true</display>
     </member>
 
