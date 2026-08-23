@@ -2,7 +2,7 @@
  
  <member>
         <name>Dr. Archana Singh [2026-] </name>
-         <image_link>./images/gallery/AKS.jpeg </image_link>
+         <image_link>./images/gallery/AS.png </image_link>
        <position> Postdoc</position>
         <additional>  </additional> 
         <email>archanaksingh </email>
@@ -77,7 +77,7 @@
        <name>Swagotom [BSMS, 2026-27] </name> 
         <image_link>./images/gallery/Swagotom Bhattacharjee.jpg </image_link>
             <position> Master Thesis Student </position>
-         <additional>Project: Red Blood Cell Mechanics.</additional>
+         <additional>Project: Membrane Mechanics.</additional>
         <email>MS22112</email>
         <display>true</display>
  </member>
@@ -104,7 +104,7 @@
         <name>Anamika [BSMS, 2026 - ]  </name> 
         <image_link>./images/gallery/Anamika.png </image_link>
           <position> Project Students </position>
-         <additional>Project: Micromanipulation.</additional>
+         <additional>Project: Light-Matter Interactions.</additional>
         <email> </email>
         <display>true</display>
     </member>
@@ -113,7 +113,7 @@
         <name>Abhinav [BSMS, 2026 - ]  </name> 
         <image_link>./images/gallery/Abhinav.png </image_link>
           <position> Project Students </position>
-         <additional>Project: Micromanipulation.</additional>
+         <additional>Project: Membrane Shape Dynamics.</additional>
         <email> </email>
         <display>true</display>
     </member>
