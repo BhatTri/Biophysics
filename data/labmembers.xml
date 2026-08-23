@@ -42,7 +42,8 @@
         <name>Pranay  [PhD, 2026-31]  </name> 
         <image_link>./images/gallery/Pranay.jpeg </image_link>
          <position> Integrated PhD Thesis Student </position>
-        <email>MP24005</email>
+       <additional> </additional>
+  <email>MP24005</email>
         <display>true</display>
     </member>
     
