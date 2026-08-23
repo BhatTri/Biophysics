@@ -86,7 +86,7 @@
        <member>
         <name>Keshav, Avneesh [BSMS, 2025 - ]  </name> 
         <image_link>./images/gallery/KA.jpg </image_link>
-          <position> Project Students </position>
+          <position> Project Student </position>
          <additional>Project: Light-Matter Interactions.</additional>
         <email>MS25224</email>
         <display>true</display>
@@ -95,7 +95,7 @@
     <member>
         <name>Palaash, Aaradhya, Aryan [BSMS, 2025 - ]  </name> 
         <image_link>./images/gallery/APA.jpg </image_link>
-          <position> Project Students </position>
+          <position> Project Student </position>
          <additional>Project: Micromanipulation.</additional>
         <email> </email>
         <display>true</display>
@@ -104,7 +104,7 @@
   <member>
         <name>Anamika [BSMS, 2026 - ]  </name> 
         <image_link>./images/gallery/Anamika.png </image_link>
-          <position> Project Students </position>
+          <position> Project Student </position>
          <additional>Project: Light-Matter Interactions.</additional>
         <email> </email>
         <display>true</display>
@@ -113,7 +113,25 @@
  <member>
         <name>Abhinav [BSMS, 2026 - ]  </name> 
         <image_link>./images/gallery/Abhinav.png </image_link>
-          <position> Project Students </position>
+          <position> Project Student </position>
+         <additional>Project: Membrane Shape Dynamics.</additional>
+        <email> </email>
+        <display>true</display>
+    </member>
+
+ <member>
+        <name>Sanya [BSMS, 2026 - ]  </name> 
+        <image_link>./images/gallery/Sanya.jpeg </image_link>
+          <position> Project Student </position>
+         <additional>Project: Membrane Shape Dynamics.</additional>
+        <email> </email>
+        <display>true</display>
+    </member>
+
+ <member>
+        <name>Aryan Sharma [BSMS, 2026 - ]  </name> 
+        <image_link>./images/gallery/Aryan.jpeg </image_link>
+          <position> Project Student </position>
          <additional>Project: Membrane Shape Dynamics.</additional>
         <email> </email>
         <display>true</display>
