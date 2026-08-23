@@ -37,6 +37,14 @@
         <email>ph23072</email>
         <display>true</display>
     </member>
+
+ <member>
+        <name>Pranay  [PhD, 2026-31]  </name> 
+        <image_link>./images/gallery/Pranay.jpeg </image_link>
+         <position> Integrated PhD Thesis Student </position>
+        <email>MP24005</email>
+        <display>true</display>
+    </member>
     
     <member>
         <name>Tanmay [BSMS, 2023 - ] </name> 
@@ -91,6 +99,25 @@
         <email> </email>
         <display>true</display>
     </member>
+
+  <member>
+        <name>Anamika [BSMS, 2026 - ]  </name> 
+        <image_link>./images/gallery/Anamika.png </image_link>
+          <position> Project Students </position>
+         <additional>Project: Micromanipulation.</additional>
+        <email> </email>
+        <display>true</display>
+    </member>
+
+ <member>
+        <name>Abhinav [BSMS, 2026 - ]  </name> 
+        <image_link>./images/gallery/Abhinav.png </image_link>
+          <position> Project Students </position>
+         <additional>Project: Micromanipulation.</additional>
+        <email> </email>
+        <display>true</display>
+    </member>
+
         
    
 
