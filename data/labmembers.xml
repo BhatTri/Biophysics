@@ -37,15 +37,6 @@
         <email>ph23072</email>
         <display>true</display>
     </member>
-
- <member>
-        <name>Pranay  [PhD, 2026-31]  </name> 
-        <image_link>./images/gallery/Pranay.jpeg </image_link>
-         <position> Integrated PhD Thesis Student </position>
-       <additional> </additional>
-  <email>MP24005</email>
-        <display>true</display>
-    </member>
     
     <member>
         <name>Tanmay [BSMS, 2023 - ] </name> 
@@ -83,6 +74,15 @@
         <display>true</display>
  </member>
 
+       <member>
+        <name>Keshav [BSMS, 2025 - ]  </name> 
+        <image_link>./images/gallery/Keshav.jpeg </image_link>
+          <position> Project Student </position>
+         <additional>Project: Light-Matter Interactions.</additional>
+        <email>MS25224</email>
+        <display>true</display>
+    </member> 
+    
        <member>
         <name>Keshav, Avneesh [BSMS, 2025 - ]  </name> 
         <image_link>./images/gallery/KA.jpg </image_link>
