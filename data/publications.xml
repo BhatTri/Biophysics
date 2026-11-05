@@ -1,5 +1,24 @@
 <publications>
         
+            
+        <pub>
+        <name>Evolution of Vesicle Shape Parameters Based on A Deep-Learning Based Image Analysis Framework Over Extended Time Periods</name>
+        <year>2026</year>
+        <link></link>
+        <journal>biorxiv</journal>
+        <authors>Tanmay Pandey, Rajni Kudawla, Sourav Negi, Jeyanth B S Varshan, Chetana Devarakonda, Deepika Singh, Aritra Chatterjee, Tripta Bhatia</authors>
+        <note> </note>
+                      
+        <pub>
+        <name>A Saliva-Inspired Model of Enzymatic Starch Hydrolysis by Alpha Amylase</name>
+        <year>2026</year>
+        <link>https://www.biorxiv.org/content/10.64898/2026.11.03.764040v1</link>
+        <journal>biorxiv</journal>
+        <authors>Rajni Kudawla, Sourav Negi, Avneesh Singh, Deepika Singh, Tripta Bhatia</authors>
+        <note> </note>
+        <image> </image>
+        
+                
         <pub>
         <name>Generation of Bilayer Asymmetry and Membrane Curvature by the Starch‐Degrading Enzyme Alpha-Amylase.</name>
         <year>2026</year>
@@ -16,8 +35,7 @@
         <journal>Nature Communications</journal>
         <authors>Sankalita Paul, Rajat Pant, Poonam Sharma, Kshitiz Walia, Suhasi Gupta, Adhil Aseem, Kamlesh Kumari Bajwa, Ruben George, Yudish Varma, Tripta Bhatia, Rajesh Ramachandran, Amit Tuli, Mahak Sharma</authors>
         <note>16, 10537. </note>
-        <image>Tecpr2.png</image>
-        
+                
         <arvix>bioRvix</arvix>
         <arvix_link>https://www.biorxiv.org/content/10.1101/2024.10.03.616509v1</arvix_link>
         <arvix_display>false</arvix_display>
@@ -32,7 +50,7 @@
         <journal>J. Phys. Chem. B</journal>
         <authors>Harshmeet Kaur, Rajni Kudawla, Tanmay Pandey, Tripta Bhatia</authors>
         <note>129, 24, 5913–5922.</note>
-        <image>exp-determined.png</image>. 
+        
         
         <arvix>bioRxiv</arvix>
         <arvix_link>https://www.biorxiv.org/content/10.1101/2024.11.04.622000v1</arvix_link>
@@ -48,7 +66,7 @@
         <journal>ChemSystemsChem</journal>
         <authors>Rajni Kudawla, Harshmeet Kaur, Tanmay Pandey, Tripta Bhatia</authors>
         <note>7(1), e202400052.</note>
-        <image>shape-analysis.png</image>
+        
         
         <arvix>bioRxiv</arvix>
         <arvix_link>https://www.biorxiv.org/content/10.1101/2024.10.05.616773v1</arvix_link>
@@ -64,7 +82,7 @@
         <journal>Eur. Phys. J. Spec. Top. "Biomimetic and Cellular Membranes"</journal>
         <authors>Tripta Bhatia</authors>
         <note>ISSN: 1951-6355 (Print) 1951-6401 (Online)</note>
-        <image>editorial.png</image>
+       
         
         <arvix></arvix>
         <arvix_link></arvix_link>
@@ -80,7 +98,7 @@
         <journal>bioRvix </journal>
         <authors>Sankalita Paul, Rajat Pant, Poonam Sharma, Kshitiz Walia, Suhasi Gupta, Adhil Aseem, Kamlesh Kumari Bajwa, Ruben George, Yudish Varma, Tripta Bhatia, Rajesh Ramachandran, Amit Tuli, Mahak Sharma</authors>
         <note>Preprint </note>
-        <image>Tecpr2.png</image>
+       
         
         <arvix>bioRvix</arvix>
         <arvix_link>https://www.biorxiv.org/content/10.1101/2024.10.03.616509v1</arvix_link>
@@ -96,7 +114,7 @@
         <journal>Chemistry and Physics of Lipids</journal>
         <authors>Harshit Kumar, Sayar Mandal, Reena Yadav, Suhasi Gupta, Hemraj Meena, Mayur Kadu, Rajni Kudawla, Pratibha Sharma, Indu Pal Kaur, Subhabrata Maiti, John H. Ipsen, Tripta Bhatia</authors>
         <note>Volume 259, March 2024, 105374</note>
-        <image>bottomup.png</image>
+      
         
         <arvix></arvix>
         <arvix_link></arvix_link>
@@ -112,7 +130,7 @@
         <journal>European Biophysics Journal</journal>
         <authors>Tripta Bhatia</authors>
         <note>52, 749-756 (October)</note>
-        <image>stability.png</image>
+       
         
         <arvix></arvix>
         <arvix_link></arvix_link>
@@ -128,7 +146,7 @@
         <journal>Biochemistry</journal>
         <authors>Veerpal Kaur, Sanat K. Ghosh, Tripta Bhatia Sabyasachi Rakshit</authors>
         <note> 62, 15, 2244-2251 (July)</note>
-        <image>tiplink.png</image>
+       
         
         <arvix></arvix>
         <arvix_link></arvix_link>
@@ -144,7 +162,7 @@
         <journal>Communications Biology</journal>
         <authors>Cheerneni S. Srinivas, Gayathri S. Singaraju, Veerpal Kaur, Sayan Das, Sanat K. Ghosh, Amin Sagar, Anuj Kumar, Tripta Bhatia, Sabyasachi Rakshit</authors>
         <note>6, 293 (March)</note>
-        <image>transient.png</image>
+        
         
         <arvix></arvix>
         <arvix_link></arvix_link>
@@ -160,7 +178,7 @@
         <journal>ChemSystemsChem</journal>
         <authors>Abhimanyu Nowbagh, Akshi Deshwal, Mayur Kadu, Abhishek Chaudhuri, Subhabrata Maiti, Reinhard Lipowsky, Tripta Bhatia</authors>
         <note>e202200027, Issue 2, volume 5 (March) </note>
-        <image>bilayer.png</image>
+       
         
         <arvix></arvix>
         <arvix_link></arvix_link>
@@ -193,7 +211,7 @@
         <journal>The Journal of Membrane Biology</journal>
         <authors>Tripta Bhatia</authors>
         <note>255, 637-649 (July)</note>
-        <image>micromech.png</image>
+        
         
         <arvix></arvix>
         <arvix_link></arvix_link>
@@ -209,7 +227,7 @@
         <journal>Advanced Sciences</journal>
         <authors>Jan Steinkühler, Piermarco Fonda, Tripta Bhatia, Ziliang Zhao, Fernanda S. C. Leomil, Reinhard Lipowsky, Rumiana Dimova</authors>
         <note>8 (21), 2102109</note>
-        <image>superelasticity.png</image>
+      
         
         <arvix></arvix>
         <arvix_link></arvix_link>
@@ -225,7 +243,7 @@
         <journal> Journal of Colloid and Interface Science</journal>
         <authors>Tripta Bhatia</authors>
         <note>584, 706-713 (Feb) </note>
-        <image>tubules.png</image>
+      
         
         <arvix></arvix>
         <arvix_link></arvix_link>
