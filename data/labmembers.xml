@@ -73,15 +73,6 @@
         <email>MS22112</email>
         <display>true</display>
  </member>
-
-       <member>
-        <name>Keshav [BSMS, 2025 - ]  </name> 
-        <image_link>./images/gallery/Keshav.jpeg </image_link>
-          <position> Project Student </position>
-         <additional>Project: Light-Matter Interactions.</additional>
-        <email>MS25224</email>
-        <display>true</display>
-    </member> 
     
        <member>
         <name>Avneesh [BSMS, 2024 - ]  </name> 
@@ -89,6 +80,15 @@
           <position> Project Student </position>
          <additional>Project: Light-Matter Interactions.</additional>
         <email>MS23249</email>
+        <display>true</display>
+    </member> 
+
+           <member>
+        <name>Keshav [BSMS, 2025 - ]  </name> 
+        <image_link>./images/gallery/Keshav.jpeg </image_link>
+          <position> Project Student </position>
+         <additional>Project: Light-Matter Interactions.</additional>
+        <email>MS25224</email>
         <display>true</display>
     </member> 
     
