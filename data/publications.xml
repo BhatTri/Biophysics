@@ -1,35 +1,54 @@
+<!--
+  HOW TO ADD A PUBLICATION
+  Copy one <pub> ... </pub> block, paste it at the TOP of the list (newest first), and edit the text.
+  Every tag must be closed:  <year>2026</year>  (not  <year>2026</year  ).
+  Tags you don't need can be left empty or deleted.
+
+    <name>                 Title of the paper
+    <year>                 Year (papers are grouped by year in the order they appear here)
+    <link>                 Link to the paper (DOI / journal / bioRxiv)
+    <journal>              Journal name, e.g. "Nature Communications" or "bioRxiv"
+    <authors>              Authors, comma separated
+    <note>                 Volume, pages, etc.
+    <type>                 Optional: journal / preprint / thesis (guessed from <journal> if missing)
+    <image>                Optional: file name of a picture in images/publications/
+    <arvix_link>           Optional: preprint link, shown only if <arvix_display>true</arvix_display>
+    <highlight>            true = show a "NEW" badge here AND an alert on the home page.
+                           Set it back to false (or delete it) when the paper is no longer new.
+-->
 <publications>
-                    
+
         <pub>
         <name>Evolution of Vesicle Shape Parameters Based on A Deep-Learning Based Image Analysis Framework Over Extended Time Periods</name>
         <year>2026</year>
         <link>https://www.biorxiv.org/content/10.64898/2026.11.03.764022v1</link>
-        <journal>biorxiv</journal>
+        <journal>bioRxiv</journal>
         <authors>Tanmay Pandey, Rajni Kudawla, Sourav Negi, Jeyanth B S Varshan, Chetana Devarakonda, Deepika Singh, Aritra Chatterjee, Tripta Bhatia</authors>
-        <note> </note>
-                
-        <arvix>bioRvix</arvix>
+        <note>Preprint, November 2026. Software: VesEvoL</note>
+        <type>preprint</type>
+        <highlight>true</highlight>
+        <arvix>bioRxiv</arvix>
         <arvix_link>https://www.biorxiv.org/content/10.64898/2026.11.03.764022v1</arvix_link>
         <arvix_display>false</arvix_display>
         <special_notes></special_notes>
-        <special_notes_link></special_notes_link>
-          </pub>
-        
+        <special_notes_link>softwares.html#vesevol</special_notes_link>
+        </pub>
+
         <pub>
         <name>A Saliva-Inspired Model of Enzymatic Starch Hydrolysis by Alpha Amylase</name>
         <year>2026</year>
         <link>https://www.biorxiv.org/content/10.64898/2026.11.03.764040v1</link>
-        <journal>biorxiv</journal>
+        <journal>bioRxiv</journal>
         <authors>Rajni Kudawla, Sourav Negi, Avneesh Singh, Deepika Singh, Tripta Bhatia</authors>
-        <note> </note>
-               
-        <arvix>bioRvix</arvix>
+        <note>Preprint, November 2026</note>
+        <type>preprint</type>
+        <highlight>false</highlight>
+        <arvix>bioRxiv</arvix>
         <arvix_link>https://www.biorxiv.org/content/10.64898/2026.11.03.764040v1</arvix_link>
         <arvix_display>false</arvix_display>
         <special_notes></special_notes>
         <special_notes_link></special_notes_link>
-                      
-         </pub>
+        </pub>
                 
         <pub>
         <name>Generation of Bilayer Asymmetry and Membrane Curvature by the Starch‐Degrading Enzyme Alpha-Amylase.</name>

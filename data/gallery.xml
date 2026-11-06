@@ -1,48 +1,69 @@
+<!--
+  HOW TO ADD A PHOTO
+  1. Upload the photo to the folder images/gallery/ (GitHub: open the folder > "Add file" > "Upload files").
+  2. Copy one <image> ... </image> block below, paste it at the TOP (newest first) and edit it:
+       <url>         the file name, e.g. Workshop2026.jpg
+       <caption>     a short description (optional)
+       <category>    optional group for the filter buttons, e.g. Awards, Workshops, Talks, Visits, Outreach
+       <featured>    true = show the photo extra large (optional)
+  Every tag must be closed:  <url>photo.jpg</url>  (not  <url>photo.jpg</url  ).
+-->
 <gallery>
 
      <image>
        <url>./images/gallery/HP.jpeg </url>
         <caption> Best Poster Award to Harshmeet Kaur in the International Soft Matter Conference, May 2026. </caption>
+        <category>Awards</category>
+        <featured>true</featured>
     </image>
 
      <image>
         <url>./images/gallery/GP1.jpg </url>
         <caption> Soft Matter Workshop-group photo, August 2026. </caption>
+        <category>Workshops</category>
+        <featured>true</featured>
     </image>
 
       <image>
         <url> ./images/gallery/GP2.jpeg </url>
         <caption> Soft Matter Workshop-group photo, August 2026. </caption>
+        <category>Workshops</category>
     </image>
      
      <image>
         <url> ./images/gallery/Poster2.jpg </url>
         <caption> Soft Matter Workshop-poster, August 2026. </caption>
+        <category>Workshops</category>
     </image>
 
       <image>
         <url>./images/gallery/Poster1.jpg </url>
         <caption> Soft Matter Workshop-poster, August 2026. </caption>
+        <category>Workshops</category>
     </image>
      
      <image>
         <url>./images/gallery/Ashoka.jpeg</url>
         <caption> Conversations across Soft Matter and Biophysics, March 2026. Thanks to the organizers and the audiences at the Ashoka University. </caption>
+        <category>Talks</category>
     </image>
 
 <image>
         <url>20260206_162738.jpg</url>
         <caption> Visit by Prof. Nitin Kumar </caption>
+        <category>Visits</category>
     </image>
 
     <image>
-        <url>APA.jpg</url
+        <url>APA.jpg</url>
         <caption> Science day, poster presentation </caption>
+        <category>Outreach</category>
     </image>
     
      <image>
         <url>KA.jpg</url>
         <caption> Science day, poster presentation </caption>
+        <category>Outreach</category>
     </image>
     
     <image>
@@ -53,11 +74,13 @@
      <image>
         <url>20.jpeg</url>
         <caption> Anveshika event </caption>
+        <category>Outreach</category>
     </image>
     
      <image>
         <url>6.jpeg</url>
         <caption> Anveshika event </caption>
+        <category>Outreach</category>
     </image>
 
     
@@ -133,7 +156,7 @@
 
     <image>
         <url>jhi.jpg</url>
-        <caption> /caption>
+        <caption> </caption>
     </image>
     
     <image>
